@@ -1,0 +1,463 @@
+{
+ "data": {
+  "podcastUnionV2": {
+   "__typename": "Audiobook",
+   "accessInfo": {
+    "accessExplanation": {
+     "__typename": "EngagementAccessExplanation"
+    },
+    "isUserMemberOfAtLeastOneGroup": false,
+    "signifier": {
+     "text": ""
+    },
+    "unlockedBy": []
+   },
+   "authorsV2": [
+    {
+     "name": "James Clear",
+     "uri": "spotify:author:0odtwCZulrepLkNzY3WLRt"
+    }
+   ],
+   "contentRatingV2": null,
+   "copyrights": {
+    "items": [],
+    "totalCount": 0
+   },
+   "coverArt": {
+    "sources": [
+     {
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab6766630000703b43d3293222816f8305c3eaaa",
+      "width": 64
+     },
+     {
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab6766630000db5b43d3293222816f8305c3eaaa",
+      "width": 300
+     },
+     {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab676663000022a843d3293222816f8305c3eaaa",
+      "width": 640
+     }
+    ]
+   },
+   "description": "Author(s): James Clear\nNarrator(s): James Clear\n\nThe #1 New York Times bestseller. Over 25 million copies sold!Translated into 60+ languages! Tiny Changes, Remarkable ResultsNo matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights.Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.Learn how to:make time for new habits (even when life gets crazy);overcome a lack of motivation and willpower;design your environment to make success easier;get back on track when you fall off course;...and much more.Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+   "duration": {
+    "totalMilliseconds": 20116285
+   },
+   "genres": [
+    {
+     "contextualName": "Happiness & Success",
+     "depth": 2,
+     "destinationUri": "",
+     "id": "bae7b37929644f13a9c7226c3b4c0260",
+     "parentId": "d576b73b7ec54562ab610044c3d1fbb9",
+     "shortName": "Happiness & Success"
+    },
+    {
+     "contextualName": "Psychology",
+     "depth": 2,
+     "destinationUri": "",
+     "id": "d0475959cda948ae84f87758e72da3f9",
+     "parentId": "cf98a2d7524b4228b383136b6515581b",
+     "shortName": "Psychology"
+    },
+    {
+     "contextualName": "Business & Careers",
+     "depth": 1,
+     "destinationUri": "",
+     "id": "e9460a2463734d4fac18a6933d5dc994",
+     "parentId": "",
+     "shortName": "Business & Careers"
+    },
+    {
+     "contextualName": "Nonfiction",
+     "depth": 1,
+     "destinationUri": "",
+     "id": "cf98a2d7524b4228b383136b6515581b",
+     "parentId": "",
+     "shortName": "Nonfiction"
+    },
+    {
+     "contextualName": "Self-Help",
+     "depth": 1,
+     "destinationUri": "",
+     "id": "d576b73b7ec54562ab610044c3d1fbb9",
+     "parentId": "",
+     "shortName": "Self-Help"
+    }
+   ],
+   "htmlDescription": "Author(s): James Clear<br/>Narrator(s): James Clear<br/>The #1 New York Times bestseller. Over 25 million copies sold!Translated into 60&#43; languages! Tiny Changes, Remarkable ResultsNo matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world&#39;s leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.If you&#39;re having trouble changing your habits, the problem isn&#39;t you. The problem is your system. Bad habits repeat themselves again and again not because you don&#39;t want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you&#39;ll get a proven system that can take you to new heights.Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.Learn how to:make time for new habits (even when life gets crazy);overcome a lack of motivation and willpower;design your environment to make success easier;get back on track when you fall off course;...and much more.Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+   "htmlDescriptionPlain": "The #1 New York Times bestseller. <br />Over 25 million copies sold!<br />Translated into 60&#43; languages!<br /> <br />Tiny Changes, Remarkable Results<br /><br />No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world&#39;s leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.<br /><br />If you&#39;re having trouble changing your habits, the problem isn&#39;t you. The problem is your system. Bad habits repeat themselves again and again not because you don&#39;t want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you&#39;ll get a proven system that can take you to new heights.<br /><br />Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.<br /><br />Learn how to:<br /><ul><li>make time for new habits (even when life gets crazy);</li></ul><ul><li>overcome a lack of motivation and willpower;</li></ul><ul><li>design your environment to make success easier;</li></ul><ul><li>get back on track when you fall off course;</li></ul>...and much more.<br /><br />Atomic Habits will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
+   "id": "40ygvasZaqVMMBkgYoUy8C",
+   "isPreRelease": false,
+   "mediaType": "AUDIO",
+   "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+   "narrators": [
+    {
+     "name": "James Clear"
+    }
+   ],
+   "playability": {
+    "playable": true,
+    "reason": "PLAYABLE",
+    "unplayabilityReasons": []
+   },
+   "preReleaseEndDateTime": {
+    "isoString": "2026-08-30T06:37:59Z"
+   },
+   "price": {
+    "finalListPrice": {
+     "amount": 20.0,
+     "currency": "USD",
+     "formattedPrice": "$20.00"
+    },
+    "finalPrice": {
+     "amount": 18.49,
+     "currency": "USD",
+     "formattedPrice": "$18.49"
+    }
+   },
+   "publishDate": {
+    "isoString": "2018-10-16T00:00:00Z"
+   },
+   "publisher": {
+    "name": "James Clear"
+   },
+   "rating": {
+    "averageRating": {
+     "average": 4.766600920447073,
+     "showAverage": true,
+     "totalRatings": 1521
+    },
+    "canRate": true,
+    "rating": {
+     "rating": 0
+    }
+   },
+   "saved": false,
+   "sharingInfo": {
+    "shareId": "QXhMcsi-TLCN8XEzjYLoeg",
+    "shareUrl": "https://open.spotify.com/show/40ygvasZaqVMMBkgYoUy8C?si=QXhMcsi-TLCN8XEzjYLoeg"
+   },
+   "showTypes": [],
+   "topics": {
+    "items": []
+   },
+   "trailerV2": {
+    "_uri": "spotify:episode:6t96dXiUqVvaKvlr9d8hVx",
+    "data": {
+     "__typename": "Chapter",
+     "audio": {
+      "items": [
+       {
+        "url": ""
+       },
+       {
+        "url": ""
+       },
+       {
+        "url": ""
+       },
+       {
+        "url": ""
+       },
+       {
+        "url": ""
+       },
+       {
+        "url": ""
+       }
+      ]
+     },
+     "audioPreview": null,
+     "audiobookV2": {
+      "__typename": "AudiobookResponseWrapper",
+      "data": {
+       "__typename": "Audiobook",
+       "coverArt": {
+        "sources": [
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6766630000703b43d3293222816f8305c3eaaa",
+          "width": 64
+         },
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab6766630000db5b43d3293222816f8305c3eaaa",
+          "width": 300
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab676663000022a843d3293222816f8305c3eaaa",
+          "width": 640
+         }
+        ]
+       },
+       "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+       "showTypes": [],
+       "trailerV2": {
+        "data": {
+         "__typename": "Chapter",
+         "uri": "spotify:episode:6t96dXiUqVvaKvlr9d8hVx"
+        }
+       },
+       "uri": "spotify:show:40ygvasZaqVMMBkgYoUy8C"
+      }
+     },
+     "availableMarkets": {
+      "items": [
+       {
+        "countryCode": "AE"
+       },
+       {
+        "countryCode": "AR"
+       },
+       {
+        "countryCode": "AT"
+       },
+       {
+        "countryCode": "BE"
+       },
+       {
+        "countryCode": "BR"
+       },
+       {
+        "countryCode": "CA"
+       },
+       {
+        "countryCode": "CH"
+       },
+       {
+        "countryCode": "CL"
+       },
+       {
+        "countryCode": "CO"
+       },
+       {
+        "countryCode": "DE"
+       },
+       {
+        "countryCode": "DK"
+       },
+       {
+        "countryCode": "ES"
+       },
+       {
+        "countryCode": "FI"
+       },
+       {
+        "countryCode": "FR"
+       },
+       {
+        "countryCode": "IS"
+       },
+       {
+        "countryCode": "IT"
+       },
+       {
+        "countryCode": "LI"
+       },
+       {
+        "countryCode": "LU"
+       },
+       {
+        "countryCode": "MC"
+       },
+       {
+        "countryCode": "MX"
+       },
+       {
+        "countryCode": "NL"
+       },
+       {
+        "countryCode": "NO"
+       },
+       {
+        "countryCode": "PE"
+       },
+       {
+        "countryCode": "PL"
+       },
+       {
+        "countryCode": "PT"
+       },
+       {
+        "countryCode": "SA"
+       },
+       {
+        "countryCode": "SE"
+       },
+       {
+        "countryCode": "TR"
+       },
+       {
+        "countryCode": "US"
+       }
+      ]
+     },
+     "contentRating": {
+      "label": "NONE"
+     },
+     "coverArt": {
+      "sources": [
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab6766630000703b43d3293222816f8305c3eaaa",
+        "width": 64
+       },
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab6766630000db5b43d3293222816f8305c3eaaa",
+        "width": 300
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab676663000022a843d3293222816f8305c3eaaa",
+        "width": 640
+       }
+      ]
+     },
+     "description": "",
+     "duration": {
+      "totalMilliseconds": 234997
+     },
+     "htmlDescription": "",
+     "id": "6t96dXiUqVvaKvlr9d8hVx",
+     "mediaTypes": [
+      "AUDIO"
+     ],
+     "name": "Atomic Habits",
+     "playability": {
+      "playable": true,
+      "reason": "PLAYABLE",
+      "unplayabilityReasons": []
+     },
+     "playedState": {
+      "playPositionMilliseconds": 0,
+      "state": "NOT_STARTED"
+     },
+     "restrictions": {
+      "paywallContent": false
+     },
+     "sharingInfo": {
+      "shareId": "ICEyyMyBTfS-Kd5jeF7NNw",
+      "shareUrl": "https://open.spotify.com/episode/6t96dXiUqVvaKvlr9d8hVx?si=ICEyyMyBTfS-Kd5jeF7NNw"
+     },
+     "uri": "spotify:episode:6t96dXiUqVvaKvlr9d8hVx"
+    }
+   },
+   "uri": "spotify:show:40ygvasZaqVMMBkgYoUy8C",
+   "visualIdentity": {
+    "squareCoverImage": {
+     "__typename": "VisualIdentityImage",
+     "extractedColorSet": {
+      "encoreBaseSetTextColor": {
+       "alpha": 255,
+       "blue": 187,
+       "green": 187,
+       "red": 187
+      },
+      "highContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 83,
+        "green": 83,
+        "red": 83
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 51,
+        "green": 51,
+        "red": 51
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 205,
+        "green": 205,
+        "red": 205
+       }
+      },
+      "higherContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 53,
+        "green": 53,
+        "red": 53
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 86,
+        "green": 86,
+        "red": 86
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 96,
+        "green": 215,
+        "red": 30
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 205,
+        "green": 205,
+        "red": 205
+       }
+      },
+      "minContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 128,
+        "green": 128,
+        "red": 128
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 102,
+        "green": 102,
+        "red": 102
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

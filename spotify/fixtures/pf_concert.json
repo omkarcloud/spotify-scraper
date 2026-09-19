@@ -1,0 +1,479 @@
+{
+ "data": {
+  "concert": {
+   "__typename": "ConcertV2",
+   "ageRestriction": "",
+   "artists": {
+    "items": [
+     {
+      "__typename": "ArtistResponseWrapper",
+      "_uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe",
+      "data": {
+       "__typename": "Artist",
+       "discography": {
+        "popularReleasesAlbums": {
+         "items": [
+          {
+           "artists": {
+            "items": [
+             {
+              "profile": {
+               "name": "Fred again.."
+              },
+              "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+             },
+             {
+              "profile": {
+               "name": "LATIN MAFIA"
+              },
+              "uri": "spotify:artist:6XTGKOV9jceQ6f67lnhpbF"
+             }
+            ]
+           },
+           "coverArt": {
+            "sources": [
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e022fe1ee03a5bed6b4a2e73296",
+              "width": 300
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048512fe1ee03a5bed6b4a2e73296",
+              "width": 64
+             },
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732fe1ee03a5bed6b4a2e73296",
+              "width": 640
+             }
+            ]
+           },
+           "name": "9 months & 50 hours",
+           "sharingInfo": {
+            "shareId": "NbuyY5C9TbyaQzLC4Ag9hA",
+            "shareUrl": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA?si=NbuyY5C9TbyaQzLC4Ag9hA"
+           },
+           "uri": "spotify:album:4HZ3fF1dwSZLwztlLwoDYA"
+          },
+          {
+           "artists": {
+            "items": [
+             {
+              "profile": {
+               "name": "Fred again.."
+              },
+              "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+             }
+            ]
+           },
+           "coverArt": {
+            "sources": [
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e024018b70099d433d9c8aabb12",
+              "width": 300
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048514018b70099d433d9c8aabb12",
+              "width": 64
+             },
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+              "width": 640
+             }
+            ]
+           },
+           "name": "USB",
+           "sharingInfo": {
+            "shareId": "8d_RIC15S_KjWTAzOGEUhg",
+            "shareUrl": "https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo?si=8d_RIC15S_KjWTAzOGEUhg"
+           },
+           "uri": "spotify:album:2ClZ9xWAYg1BH8zkR96dJo"
+          },
+          {
+           "artists": {
+            "items": [
+             {
+              "profile": {
+               "name": "Fred again.."
+              },
+              "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+             }
+            ]
+           },
+           "coverArt": {
+            "sources": [
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02723d4df900fd02eff83579d9",
+              "width": 300
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851723d4df900fd02eff83579d9",
+              "width": 64
+             },
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
+              "width": 640
+             }
+            ]
+           },
+           "name": "Actual Life (April 14 - December 17 2020)",
+           "sharingInfo": {
+            "shareId": "o2hEXqkFR4C32ruX5kd0pw",
+            "shareUrl": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC?si=o2hEXqkFR4C32ruX5kd0pw"
+           },
+           "uri": "spotify:album:6o86bV7TAt5x4exc2qLDqC"
+          },
+          {
+           "artists": {
+            "items": [
+             {
+              "profile": {
+               "name": "Fred again.."
+              },
+              "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+             }
+            ]
+           },
+           "coverArt": {
+            "sources": [
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029574df129a4a2f4fa4990286",
+              "width": 300
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519574df129a4a2f4fa4990286",
+              "width": 64
+             },
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
+              "width": 640
+             }
+            ]
+           },
+           "name": "ten days",
+           "sharingInfo": {
+            "shareId": "tuN0ZchORSKF9f2sb0DPqw",
+            "shareUrl": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh?si=tuN0ZchORSKF9f2sb0DPqw"
+           },
+           "uri": "spotify:album:3DQueEd1Ft9PHWgovDzPKh"
+          }
+         ]
+        }
+       },
+       "goods": {
+        "concerts": {
+         "totalCount": 5
+        }
+       },
+       "headerImage": {
+        "data": {
+         "__typename": "ImageV2",
+         "sources": [
+          {
+           "maxHeight": 640,
+           "maxWidth": 1494,
+           "url": "https://image-cdn-ak.spotifycdn.com/image/ab676186000001948bfa44841fb42b39bb7cd4d3"
+          },
+          {
+           "maxHeight": 1080,
+           "maxWidth": 1920,
+           "url": "https://i2o.scdn.co/image/ab676186000016678bfa44841fb42b39bb7cd4d3"
+          },
+          {
+           "maxHeight": 1080,
+           "maxWidth": 1920,
+           "url": "https://i2o.scdn.co/image/ab676186000016678bfa44841fb42b39bb7cd4d3"
+          },
+          {
+           "maxHeight": 641,
+           "maxWidth": 1495,
+           "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d808bfa44841fb42b39bb7cd4d3"
+          },
+          {
+           "maxHeight": 1140,
+           "maxWidth": 2660,
+           "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab18bfa44841fb42b39bb7cd4d3"
+          }
+         ]
+        }
+       },
+       "localConcerts": {
+        "items": []
+       },
+       "relatedContent": {
+        "featuringV2": {
+         "items": [
+          {
+           "__typename": "PlaylistResponseWrapper",
+           "data": {
+            "__typename": "Playlist",
+            "description": "This is Fred again... The essential tracks, all in one playlist.",
+            "format": "artistsets",
+            "id": "37i9dQZF1DZ06evO2zE29q",
+            "images": {
+             "items": [
+              {
+               "sources": [
+                {
+                 "height": null,
+                 "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/thisisv3/4oLeXFyACqeem2VImYeBFe/en",
+                 "width": null
+                }
+               ]
+              }
+             ],
+             "totalCount": 1
+            },
+            "name": "This Is Fred again..",
+            "ownerV2": {
+             "data": {
+              "__typename": "User",
+              "name": "Spotify"
+             }
+            },
+            "uri": "spotify:playlist:37i9dQZF1DZ06evO2zE29q"
+           }
+          }
+         ],
+         "totalCount": 8
+        }
+       },
+       "visualIdentity": {
+        "wideFullBleedImage": {
+         "__typename": "VisualIdentityImage",
+         "extractedColorSet": {
+          "encoreBaseSetTextColor": {
+           "alpha": 255,
+           "blue": 185,
+           "green": 185,
+           "red": 194
+          },
+          "highContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 81,
+            "green": 81,
+            "red": 89
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 49,
+            "green": 49,
+            "red": 56
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 203,
+            "green": 203,
+            "red": 213
+           }
+          },
+          "higherContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 52,
+            "green": 52,
+            "red": 59
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 84,
+            "green": 84,
+            "red": 92
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 215,
+            "red": 30
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 203,
+            "green": 203,
+            "red": 213
+           }
+          },
+          "minContrast": {
+           "backgroundBase": {
+            "alpha": 255,
+            "blue": 96,
+            "green": 96,
+            "red": 104
+           },
+           "backgroundTintedBase": {
+            "alpha": 255,
+            "blue": 66,
+            "green": 66,
+            "red": 74
+           },
+           "textBase": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textBrightAccent": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           },
+           "textSubdued": {
+            "alpha": 255,
+            "blue": 255,
+            "green": 255,
+            "red": 255
+           }
+          }
+         }
+        }
+       },
+       "profile": {
+        "name": "Fred again.."
+       },
+       "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebf760292919aee89e58d943d9",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178f760292919aee89e58d943d9",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174f760292919aee89e58d943d9",
+           "width": 320
+          }
+         ]
+        }
+       }
+      }
+     }
+    ],
+    "totalCount": 1
+   },
+   "campaignRoutingCards": [],
+   "concepts": {
+    "items": [
+     {
+      "data": {
+       "name": "house",
+       "uri": "spotify:concept:1J9pUDx6minjAWzoY3j9jv"
+      },
+      "weight": 6286.14794921875
+     },
+     {
+      "data": {
+       "name": "edm",
+       "uri": "spotify:concept:0d5BcmOXdnNbXcgd7KiZrl"
+      },
+      "weight": 6251.68701171875
+     },
+     {
+      "data": {
+       "name": "electronic",
+       "uri": "spotify:concept:0OBG1pylaHZZ2myejxJZ4c"
+      },
+      "weight": 6125.060546875
+     },
+     {
+      "data": {
+       "name": "stutter house",
+       "uri": "spotify:concept:0NCGG06kIWQBxArLi737bZ"
+      },
+      "weight": 4468.0087890625
+     },
+     {
+      "data": {
+       "name": "dance",
+       "uri": "spotify:concept:4VlgQccQC9pNnZgoI7hKXp"
+      },
+      "weight": 4458.34619140625
+     }
+    ]
+   },
+   "doorsOpenTimeIsoString": null,
+   "festival": false,
+   "location": {
+    "attribution": null,
+    "city": "Delhi-NCR",
+    "coordinates": {
+     "latitude": 28.472755,
+     "longitude": 77.064647
+    },
+    "country": "IN",
+    "metroAreaLocation": null,
+    "name": "Leisure Valley Ground: Gurgaon",
+    "region": "NCR"
+   },
+   "offers": {
+    "items": [
+     {
+      "accessCode": "ET00503974-LVGG-10131",
+      "availability": "UNKNOWN",
+      "currency": null,
+      "dates": {
+       "endDateIsoString": "2026-12-05T09:30:00Z",
+       "startDateIsoString": "2023-01-01T00:00:00Z"
+      },
+      "firstParty": false,
+      "hasPromoCodes": false,
+      "maxPrice": null,
+      "minPrice": null,
+      "providerImageUrl": "https://tickets.spotifycdn.com/partner-assets/bookmyshow.png",
+      "providerName": "BookMyShow",
+      "saleType": "on-sale",
+      "url": "https://prf.hn/click/camref:1101l5aLSj/pubref:/tsource:Display/ar:%3A2OvGgoad28kYNzpw6hutns/eventid:2OvGgoad28kYNzpw6hutns/destination:https%3A%2F%2Fin.bookmyshow.com%2Fevents%2Ffred-again-india-tour-2026-delhi-ncr%2FET00503974%3Fid%3DET00503974-LVGG-10131%26source%3Dspotify",
+      "urlType": "UNKNOWN"
+     }
+    ],
+    "totalCount": 1
+   },
+   "relatedConcerts": {
+    "items": [],
+    "totalCount": 0
+   },
+   "saved": false,
+   "startDateIsoString": "2026-12-05T15:00+05:30",
+   "status": "UNKNOWN",
+   "title": "Fred again..",
+   "uri": "spotify:concert:2OvGgoad28kYNzpw6hutns",
+   "venue": null
+  }
+ }
+}

@@ -1,0 +1,1473 @@
+{
+ "data": {
+  "trackUnion": {
+   "__typename": "Track",
+   "associationsV3": {
+    "audioAssociations": {
+     "__typename": "TrackAudioAssociationPage",
+     "items": []
+    },
+    "videoAssociations": {
+     "totalCount": 0
+    }
+   },
+   "contentRating": {
+    "label": "NONE"
+   },
+   "contentRatingV2": null,
+   "duration": {
+    "totalMilliseconds": 248293
+   },
+   "id": "4iV5W9uYEdYUVa79Axb7Rh",
+   "mediaType": "AUDIO",
+   "name": "Prelude for Piano No. 11 in F-Sharp Minor",
+   "playability": {
+    "playable": true,
+    "reason": "PLAYABLE"
+   },
+   "playcount": "183362",
+   "saved": false,
+   "sharingInfo": {
+    "shareId": "iH6aHR3LTW-rou-OZZJ3hA",
+    "shareUrl": "https://open.spotify.com/track/4iV5W9uYEdYUVa79Axb7Rh?si=iH6aHR3LTW-rou-OZZJ3hA"
+   },
+   "trackNumber": 3,
+   "uri": "spotify:track:4iV5W9uYEdYUVa79Axb7Rh",
+   "visualIdentity": {
+    "squareCoverImage": {
+     "__typename": "VisualIdentityImage",
+     "extractedColorSet": {
+      "encoreBaseSetTextColor": {
+       "alpha": 255,
+       "blue": 140,
+       "green": 163,
+       "red": 255
+      },
+      "highContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 0,
+        "red": 159
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 0,
+        "red": 97
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 173,
+        "green": 190,
+        "red": 255
+       }
+      },
+      "higherContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 0,
+        "red": 101
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 41,
+        "green": 52,
+        "red": 147
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 96,
+        "green": 215,
+        "red": 30
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 173,
+        "green": 190,
+        "red": 255
+       }
+      },
+      "minContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 40,
+        "red": 200
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 0,
+        "red": 152
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       }
+      }
+     }
+    }
+   },
+   "albumOfTrack": {
+    "copyright": {
+     "items": [
+      {
+       "text": "(C) 2010 VDE-GALLO",
+       "type": "C"
+      },
+      {
+       "text": "(P) 2010 VDE-GALLO",
+       "type": "P"
+      }
+     ],
+     "totalCount": 2
+    },
+    "courtesyLine": "",
+    "id": "6fu8fvc7O4p8Gb8KMTBTUW",
+    "date": {
+     "isoString": "2010-01-01T00:00:00Z",
+     "precision": "YEAR",
+     "year": 2010
+    },
+    "name": "Abramyan: Preludes – Rachmaninoff: Sonata No. 2 in B-Flat Minor, Op. 36 – Babadjanyan: Capriccio, Improvisation, Folksong, Elegy, Poem",
+    "playability": {
+     "playable": true
+    },
+    "sharingInfo": {
+     "shareId": "rMmF4rG8TlGLbjnMZ7B36g",
+     "shareUrl": "https://open.spotify.com/album/6fu8fvc7O4p8Gb8KMTBTUW?si=rMmF4rG8TlGLbjnMZ7B36g"
+    },
+    "tracks": {
+     "items": [
+      {
+       "track": {
+        "trackNumber": 1,
+        "uri": "spotify:track:4e1zdmsDwNBNe9rk7HHC0i"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 2,
+        "uri": "spotify:track:2SYh5DcREUDef2mMtVoUhP"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 3,
+        "uri": "spotify:track:4iV5W9uYEdYUVa79Axb7Rh"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 4,
+        "uri": "spotify:track:0v9JLihqpDj9eGsPtzaFpw"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 5,
+        "uri": "spotify:track:0Czet3Uj6ZPToppesIMO4x"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 6,
+        "uri": "spotify:track:5egQWJMIza6VuxIyHIpVxE"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 7,
+        "uri": "spotify:track:4BLNgQ69VzHnkrnDqYqQQv"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 8,
+        "uri": "spotify:track:0TNojlgXVsyAn7F6kSMIx3"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 9,
+        "uri": "spotify:track:53cKxLEsjMmGGoU2A1WskH"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 10,
+        "uri": "spotify:track:0rUwhlLWx5hgcOIQyCAbmD"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 11,
+        "uri": "spotify:track:3UMCLtlXQY6d6JDDdpL163"
+       }
+      },
+      {
+       "track": {
+        "trackNumber": 12,
+        "uri": "spotify:track:0dOojgYcyeoH1iG71pvB0e"
+       }
+      }
+     ],
+     "totalCount": 12
+    },
+    "type": "ALBUM",
+    "uri": "spotify:album:6fu8fvc7O4p8Gb8KMTBTUW",
+    "coverArt": {
+     "extractedColors": {
+      "colorRaw": {
+       "hex": "#C82800"
+      }
+     },
+     "sources": [
+      {
+       "height": 300,
+       "url": "https://i.scdn.co/image/ab67616d00001e024f61e186facbb486f79e9fd9",
+       "width": 300
+      },
+      {
+       "height": 64,
+       "url": "https://i.scdn.co/image/ab67616d000048514f61e186facbb486f79e9fd9",
+       "width": 64
+      },
+      {
+       "height": 640,
+       "url": "https://i.scdn.co/image/ab67616d0000b2734f61e186facbb486f79e9fd9",
+       "width": 640
+      }
+     ]
+    }
+   },
+   "firstArtist": {
+    "items": [
+     {
+      "discography": {
+       "albums": {
+        "items": [],
+        "totalCount": 0
+       },
+       "popularReleasesAlbums": {
+        "items": []
+       },
+       "singles": {
+        "items": [],
+        "totalCount": 0
+       },
+       "topTracks": {
+        "items": []
+       }
+      },
+      "id": "5EuJ3aXZp3JKHsk7g32Vbd",
+      "profile": {
+       "name": "Eduard Abramyan"
+      },
+      "relatedContent": {
+       "relatedArtists": {
+        "items": [
+         {
+          "id": "010I3jbLL09Z8n5XNbeDE1",
+          "profile": {
+           "name": "Natan Fiedorowicz"
+          },
+          "uri": "spotify:artist:010I3jbLL09Z8n5XNbeDE1",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb2df271170201fe056398d2da",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1782df271170201fe056398d2da",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051742df271170201fe056398d2da",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "5N7MzGmv1XnlBZZk9pciRm",
+          "profile": {
+           "name": "Tom Connell"
+          },
+          "uri": "spotify:artist:5N7MzGmv1XnlBZZk9pciRm",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd2dc085fa3e1a0a143e4119c",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d2dc085fa3e1a0a143e4119c",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d2dc085fa3e1a0a143e4119c",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "0RiOlaVnyhzP59i4DT9qqi",
+          "profile": {
+           "name": "Delphine Deau"
+          },
+          "uri": "spotify:artist:0RiOlaVnyhzP59i4DT9qqi",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27339d2b7d455a03148a8497ff4",
+              "width": 640
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485139d2b7d455a03148a8497ff4",
+              "width": 64
+             },
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0239d2b7d455a03148a8497ff4",
+              "width": 300
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "1L3GSMFSZQ4GU2GmW1xXkE",
+          "profile": {
+           "name": "Enter Horizons"
+          },
+          "uri": "spotify:artist:1L3GSMFSZQ4GU2GmW1xXkE",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebad5de4ff6b8119b9da48df31",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178ad5de4ff6b8119b9da48df31",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174ad5de4ff6b8119b9da48df31",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "6TTcp5OzbhnJ8H4m5HwnAX",
+          "profile": {
+           "name": "Crosby Cash"
+          },
+          "uri": "spotify:artist:6TTcp5OzbhnJ8H4m5HwnAX",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb316a03e79b5c08b8b0eab7c8",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178316a03e79b5c08b8b0eab7c8",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174316a03e79b5c08b8b0eab7c8",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "0MRVqpiuMlUX4XDs1LDyNg",
+          "profile": {
+           "name": "BobbyG63"
+          },
+          "uri": "spotify:artist:0MRVqpiuMlUX4XDs1LDyNg",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27315981d004d01e2e5dc4c5a81",
+              "width": 640
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485115981d004d01e2e5dc4c5a81",
+              "width": 64
+             },
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0215981d004d01e2e5dc4c5a81",
+              "width": 300
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "4o6d1tisM4S9K3p7ajNaom",
+          "profile": {
+           "name": "Gábor Szunyogh"
+          },
+          "uri": "spotify:artist:4o6d1tisM4S9K3p7ajNaom",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc619a20a44bb012df2706004",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c619a20a44bb012df2706004",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c619a20a44bb012df2706004",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "1bDvR5KuxKL5hMjm7ZDZXe",
+          "profile": {
+           "name": "Tomás Martinez"
+          },
+          "uri": "spotify:artist:1bDvR5KuxKL5hMjm7ZDZXe",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f9e5945f7c83233264825121",
+              "width": 640
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f9e5945f7c83233264825121",
+              "width": 64
+             },
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f9e5945f7c83233264825121",
+              "width": 300
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "2e85eVaA1gCmmeK1VZftYO",
+          "profile": {
+           "name": "Gabriel Greenwood"
+          },
+          "uri": "spotify:artist:2e85eVaA1gCmmeK1VZftYO",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebce081f519d16f98f35c218c4",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178ce081f519d16f98f35c218c4",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174ce081f519d16f98f35c218c4",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "7bjzbcxjbIEya1YtIvIrqa",
+          "profile": {
+           "name": "Philip Kuehn"
+          },
+          "uri": "spotify:artist:7bjzbcxjbIEya1YtIvIrqa",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6dc95eecf6ab8d3ddf7b58c8",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786dc95eecf6ab8d3ddf7b58c8",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746dc95eecf6ab8d3ddf7b58c8",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "4vElATjjPqoKoXKHZ6Zakp",
+          "profile": {
+           "name": "Harry Evans"
+          },
+          "uri": "spotify:artist:4vElATjjPqoKoXKHZ6Zakp",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb4df4bc25d1868946c78095f6",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1784df4bc25d1868946c78095f6",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051744df4bc25d1868946c78095f6",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "71eRFMb4jB0FX2nrVSKpMS",
+          "profile": {
+           "name": "Nicholas von der Nahmer"
+          },
+          "uri": "spotify:artist:71eRFMb4jB0FX2nrVSKpMS",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb2aa86ac856030c02426ba79e",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1782aa86ac856030c02426ba79e",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051742aa86ac856030c02426ba79e",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "2lyPLDhInKA2NdiLVTIK1v",
+          "profile": {
+           "name": "Blu Valentine"
+          },
+          "uri": "spotify:artist:2lyPLDhInKA2NdiLVTIK1v",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebeb07eb9ee8230136f93678ce",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178eb07eb9ee8230136f93678ce",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174eb07eb9ee8230136f93678ce",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "0JpkdcY38C8Jse6R9NChqX",
+          "profile": {
+           "name": "The Bruins"
+          },
+          "uri": "spotify:artist:0JpkdcY38C8Jse6R9NChqX",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebdee26b05fe4bfe6c680ec742",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178dee26b05fe4bfe6c680ec742",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174dee26b05fe4bfe6c680ec742",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "15GDbu112bXIa7vv2KGVaX",
+          "profile": {
+           "name": "Lily Coyl"
+          },
+          "uri": "spotify:artist:15GDbu112bXIa7vv2KGVaX",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273fedb6d745a1a346e5e60849c",
+              "width": 640
+             },
+             {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851fedb6d745a1a346e5e60849c",
+              "width": 64
+             },
+             {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02fedb6d745a1a346e5e60849c",
+              "width": 300
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "6ELEwunPWVLXOhuTAlci2k",
+          "profile": {
+           "name": "Projective"
+          },
+          "uri": "spotify:artist:6ELEwunPWVLXOhuTAlci2k",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb56b74fd115073bbfc0702fce",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17856b74fd115073bbfc0702fce",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517456b74fd115073bbfc0702fce",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "4QQrjM0WjlARStR7wnqP6W",
+          "profile": {
+           "name": "Talin"
+          },
+          "uri": "spotify:artist:4QQrjM0WjlARStR7wnqP6W",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebf142aae5e649a3c598f846e7",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178f142aae5e649a3c598f846e7",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174f142aae5e649a3c598f846e7",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "3EIOAVYDME7oKDRfnx93F4",
+          "profile": {
+           "name": "Chess Club"
+          },
+          "uri": "spotify:artist:3EIOAVYDME7oKDRfnx93F4",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb408d05fe1543819b856fdee9",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178408d05fe1543819b856fdee9",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174408d05fe1543819b856fdee9",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "77qD75CN87Ix71Y1b5SMP6",
+          "profile": {
+           "name": "Jack Wilson"
+          },
+          "uri": "spotify:artist:77qD75CN87Ix71Y1b5SMP6",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd3e291f1075b9413496bf2b5",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d3e291f1075b9413496bf2b5",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d3e291f1075b9413496bf2b5",
+              "width": 320
+             }
+            ]
+           }
+          }
+         },
+         {
+          "id": "5Amv3epjVcFQ9XhodJOM95",
+          "profile": {
+           "name": "Jon Gold"
+          },
+          "uri": "spotify:artist:5Amv3epjVcFQ9XhodJOM95",
+          "visuals": {
+           "avatarImage": {
+            "sources": [
+             {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb4cc2d763e632d013b8b13aa6",
+              "width": 640
+             },
+             {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1784cc2d763e632d013b8b13aa6",
+              "width": 160
+             },
+             {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051744cc2d763e632d013b8b13aa6",
+              "width": 320
+             }
+            ]
+           }
+          }
+         }
+        ],
+        "totalCount": 40
+       }
+      },
+      "uri": "spotify:artist:5EuJ3aXZp3JKHsk7g32Vbd",
+      "visuals": {
+       "avatarImage": null
+      }
+     }
+    ],
+    "totalCount": 2
+   },
+   "otherArtists": {
+    "items": [
+     {
+      "discography": {
+       "popularReleasesAlbums": {
+        "items": [
+         {
+          "coverArt": {
+           "extractedColors": {
+            "colorRaw": {
+             "hex": "#682820"
+            }
+           },
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0265a68084d409e72b923eb57a",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485165a68084d409e72b923eb57a",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27365a68084d409e72b923eb57a",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "isoString": "2005-01-01T00:00:00Z",
+           "precision": "DAY",
+           "year": 2005
+          },
+          "name": "Shaboyan, Sona: Piano Music From Armenia",
+          "playability": {
+           "playable": true
+          },
+          "sharingInfo": {
+           "shareId": "s3evVYJ8StK3fY53exvVIw",
+           "shareUrl": "https://open.spotify.com/album/7JWMrfx5DCz0m3WL92PnLc?si=s3evVYJ8StK3fY53exvVIw"
+          },
+          "tracks": {
+           "items": [
+            {
+             "track": {
+              "trackNumber": 1,
+              "uri": "spotify:track:3DsZt1YqJFynfnPjNZ1cA8"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 2,
+              "uri": "spotify:track:79gm3TtOoKc0FcQSFDxTKx"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 3,
+              "uri": "spotify:track:2c1KXu9NxWJq0mypZOIKQ2"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 4,
+              "uri": "spotify:track:27rfktYlmXLmw9dkPo4ijq"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 5,
+              "uri": "spotify:track:7u98MYWBf5HGlMKNOyhxVh"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 6,
+              "uri": "spotify:track:6v2gSJiavZkpcRlPSAdJXD"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 7,
+              "uri": "spotify:track:46phO8WxIaYJJQrkdKmFms"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 8,
+              "uri": "spotify:track:5HqvTVWm3znSmPopgl9Wue"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 9,
+              "uri": "spotify:track:4i4k2MUohALjLv03CEXwdm"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 10,
+              "uri": "spotify:track:6sdMkoAF1TROXXzGau2DGV"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 11,
+              "uri": "spotify:track:755wLDpgsnTStokIld9EUy"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 12,
+              "uri": "spotify:track:4OhCeRND0HE0V03NgGOz1u"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 13,
+              "uri": "spotify:track:7KQit5zA5k7DuqDbX5LSve"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 14,
+              "uri": "spotify:track:7ip8gAJ9EuTkfyVvF4dKqa"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 15,
+              "uri": "spotify:track:6FCJgWM6kSLcRXOCVPuLhK"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 16,
+              "uri": "spotify:track:2eOacTQ9oJBYG9UYVNJoSD"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 17,
+              "uri": "spotify:track:281biSR6oCvAoZL796Q1dq"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 18,
+              "uri": "spotify:track:5GNuELOk8QX20uorRFupeV"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 19,
+              "uri": "spotify:track:4R10SEQl8McHlVlxcywI2P"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 20,
+              "uri": "spotify:track:72fFQbRZuBMdIsK7Abbm7q"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 21,
+              "uri": "spotify:track:7GUuMRqWjI2qRackvcFJo2"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 22,
+              "uri": "spotify:track:7JO0R8MEQMl3D8hlZnZFko"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 23,
+              "uri": "spotify:track:2svJzDYHY46M0Y1OW9EgMz"
+             }
+            }
+           ],
+           "totalCount": 23
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:7JWMrfx5DCz0m3WL92PnLc"
+         },
+         {
+          "coverArt": {
+           "extractedColors": {
+            "colorRaw": {
+             "hex": "#C82800"
+            }
+           },
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e024f61e186facbb486f79e9fd9",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048514f61e186facbb486f79e9fd9",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2734f61e186facbb486f79e9fd9",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "isoString": "2010-01-01T00:00:00Z",
+           "precision": "YEAR",
+           "year": 2010
+          },
+          "name": "Abramyan: Preludes – Rachmaninoff: Sonata No. 2 in B-Flat Minor, Op. 36 – Babadjanyan: Capriccio, Improvisation, Folksong, Elegy, Poem",
+          "playability": {
+           "playable": true
+          },
+          "sharingInfo": {
+           "shareId": "qTSOLaTpSCWkbHsMGzLIaQ",
+           "shareUrl": "https://open.spotify.com/album/6fu8fvc7O4p8Gb8KMTBTUW?si=qTSOLaTpSCWkbHsMGzLIaQ"
+          },
+          "tracks": {
+           "items": [
+            {
+             "track": {
+              "trackNumber": 1,
+              "uri": "spotify:track:4e1zdmsDwNBNe9rk7HHC0i"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 2,
+              "uri": "spotify:track:2SYh5DcREUDef2mMtVoUhP"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 3,
+              "uri": "spotify:track:4iV5W9uYEdYUVa79Axb7Rh"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 4,
+              "uri": "spotify:track:0v9JLihqpDj9eGsPtzaFpw"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 5,
+              "uri": "spotify:track:0Czet3Uj6ZPToppesIMO4x"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 6,
+              "uri": "spotify:track:5egQWJMIza6VuxIyHIpVxE"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 7,
+              "uri": "spotify:track:4BLNgQ69VzHnkrnDqYqQQv"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 8,
+              "uri": "spotify:track:0TNojlgXVsyAn7F6kSMIx3"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 9,
+              "uri": "spotify:track:53cKxLEsjMmGGoU2A1WskH"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 10,
+              "uri": "spotify:track:0rUwhlLWx5hgcOIQyCAbmD"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 11,
+              "uri": "spotify:track:3UMCLtlXQY6d6JDDdpL163"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 12,
+              "uri": "spotify:track:0dOojgYcyeoH1iG71pvB0e"
+             }
+            }
+           ],
+           "totalCount": 12
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6fu8fvc7O4p8Gb8KMTBTUW"
+         },
+         {
+          "coverArt": {
+           "extractedColors": {
+            "colorRaw": {
+             "hex": "#902818"
+            }
+           },
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02ea61a753c68b8978f86f8232",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851ea61a753c68b8978f86f8232",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273ea61a753c68b8978f86f8232",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "isoString": "2014-01-15T00:00:00Z",
+           "precision": "DAY",
+           "year": 2014
+          },
+          "name": "Beethoven: Piano Sonata No. 17 in D Minor - Schnyder Von Wartensee: Piano Sonata in C Major - Liste: Grande Sonata for Piano in a Major",
+          "playability": {
+           "playable": true
+          },
+          "sharingInfo": {
+           "shareId": "YDCNAvXBSFyonR16aaseLw",
+           "shareUrl": "https://open.spotify.com/album/3epJckuYfVHZE0p6ZqIZS1?si=YDCNAvXBSFyonR16aaseLw"
+          },
+          "tracks": {
+           "items": [
+            {
+             "track": {
+              "trackNumber": 1,
+              "uri": "spotify:track:2DbuUnRkBgbDDufSxOrFnL"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 2,
+              "uri": "spotify:track:7zBc1TtHggb5FTisuegTrR"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 3,
+              "uri": "spotify:track:6ZfVCgtDQdEdQhsrpVZ4IH"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 4,
+              "uri": "spotify:track:7fBwURak6RtEn3sl9TTAQW"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 5,
+              "uri": "spotify:track:4B8Vfi6QhLxfSl6V0wk74p"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 6,
+              "uri": "spotify:track:559f6oXv55PfDZr6CJ7yCc"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 7,
+              "uri": "spotify:track:2yiubjL3wgkm2YPeLjDSU8"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 1,
+              "uri": "spotify:track:3fbh43p2oAKOGy4UjJQ1FA"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 2,
+              "uri": "spotify:track:5HJwYg8S4SvnBoPMSsHADg"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 3,
+              "uri": "spotify:track:0LDJjew0iZCbyGm3U0j4rX"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 4,
+              "uri": "spotify:track:33zH1C6zzP632M3oAqN94M"
+             }
+            }
+           ],
+           "totalCount": 11
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:3epJckuYfVHZE0p6ZqIZS1"
+         },
+         {
+          "coverArt": {
+           "extractedColors": {
+            "colorRaw": {
+             "hex": "#E0A830"
+            }
+           },
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e026e860ad443b0d8f58134d531",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048516e860ad443b0d8f58134d531",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2736e860ad443b0d8f58134d531",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "isoString": "2008-01-01T00:00:00Z",
+           "precision": "DAY",
+           "year": 2008
+          },
+          "name": "Chopin, F.: Etudes, Op. 10 / Piano Sonata No. 2",
+          "playability": {
+           "playable": true
+          },
+          "sharingInfo": {
+           "shareId": "z56znkErQHS03dzZ2KZ-Sg",
+           "shareUrl": "https://open.spotify.com/album/78CDJm9WIyj8GttWZR7wxA?si=z56znkErQHS03dzZ2KZ-Sg"
+          },
+          "tracks": {
+           "items": [
+            {
+             "track": {
+              "trackNumber": 1,
+              "uri": "spotify:track:3Ust0gt5gppt32mIdCYgqz"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 2,
+              "uri": "spotify:track:6YqKup1owjXUalYgOC35F2"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 3,
+              "uri": "spotify:track:5cUwNyPPOqqXLXiotZLh4v"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 4,
+              "uri": "spotify:track:6tkIdrH9azb5rPz3jhbO6L"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 5,
+              "uri": "spotify:track:7IzqBlk5Kn2bq6AtrIDmC6"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 6,
+              "uri": "spotify:track:5JLb1vtT993WT6HUYoFmaG"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 7,
+              "uri": "spotify:track:1SHH5fFX1b69RoBkZBpgEi"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 8,
+              "uri": "spotify:track:2dtTtI3WGFkRioHeql910f"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 9,
+              "uri": "spotify:track:7yPJYtYobLHJS29yDHNFVh"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 10,
+              "uri": "spotify:track:23Xgwr9Ssj46kfjIiPlT4C"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 11,
+              "uri": "spotify:track:6ZZ46IVYjDyvmSsKpHnZ0k"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 12,
+              "uri": "spotify:track:7zyt4TO6Rv2ZaCXA9RMyQK"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 13,
+              "uri": "spotify:track:6AOoASsGqgzbr7NOZKRdLK"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 14,
+              "uri": "spotify:track:5T0gb2hzOkXZ9skmVkJYoW"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 15,
+              "uri": "spotify:track:2TxXdmAj31D8yoKg2o1y6g"
+             }
+            },
+            {
+             "track": {
+              "trackNumber": 16,
+              "uri": "spotify:track:3xyM7tdc1qRuqRaAtiqzyY"
+             }
+            }
+           ],
+           "totalCount": 16
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:78CDJm9WIyj8GttWZR7wxA"
+         }
+        ],
+        "totalCount": 4
+       }
+      },
+      "id": "2wCBGp0AIrgr5VBnF2qGM0",
+      "profile": {
+       "name": "Sona Shaboyan"
+      },
+      "uri": "spotify:artist:2wCBGp0AIrgr5VBnF2qGM0",
+      "visuals": {
+       "avatarImage": {
+        "sources": [
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27365a68084d409e72b923eb57a",
+          "width": 640
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485165a68084d409e72b923eb57a",
+          "width": 64
+         },
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0265a68084d409e72b923eb57a",
+          "width": 300
+         }
+        ]
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

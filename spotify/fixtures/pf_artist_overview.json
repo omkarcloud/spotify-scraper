@@ -1,0 +1,5840 @@
+{
+ "data": {
+  "artistUnion": {
+   "__typename": "Artist",
+   "discography": {
+    "albums": {
+     "items": [
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2025 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2025 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02f756bdc2c11a985dc0c06d94",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851f756bdc2c11a985dc0c06d94",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273f756bdc2c11a985dc0c06d94",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 7,
+           "month": 11,
+           "precision": "DAY",
+           "year": 2025
+          },
+          "id": "6QNMhoV8V0u7cFuhhUBOn7",
+          "label": "Taylor Swift",
+          "name": "The Life of a Showgirl + Acoustic Collection",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "fuGeVagTTUyKvTMCS_knHg",
+           "shareUrl": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7?si=fuGeVagTTUyKvTMCS_knHg"
+          },
+          "tracks": {
+           "totalCount": 19
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6QNMhoV8V0u7cFuhhUBOn7"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2025 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2025 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 3,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2025
+          },
+          "id": "4a6NzYL1YHRUgx9e3YZI6I",
+          "label": "Taylor Swift",
+          "name": "The Life of a Showgirl",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "TOdjjInkRAKD4Zhlgo0vgA",
+           "shareUrl": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I?si=TOdjjInkRAKD4Zhlgo0vgA"
+          },
+          "tracks": {
+           "totalCount": 12
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2025 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2025 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e027e0698e1398b6473de43f901",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048517e0698e1398b6473de43f901",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2737e0698e1398b6473de43f901",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 2,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2025
+          },
+          "id": "4tFsJC9jQ0Qjj7HSExhAdm",
+          "label": "Taylor Swift",
+          "name": "The Life of a Showgirl (Track by Track Version)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "8N1QnMD0QMKaC3Bj_mtW5w",
+           "shareUrl": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm?si=8N1QnMD0QMKaC3Bj_mtW5w"
+          },
+          "tracks": {
+           "totalCount": 26
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:4tFsJC9jQ0Qjj7HSExhAdm"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2024 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2024 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048518ecc33f195df6aa257c39eaa",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 19,
+           "month": 4,
+           "precision": "DAY",
+           "year": 2024
+          },
+          "id": "5H7ixXZfsNMGbIE5OBSpcb",
+          "label": "Taylor Swift",
+          "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "HpHVYtVEQb2TwEYCtQYBOA",
+           "shareUrl": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb?si=HpHVYtVEQb2TwEYCtQYBOA"
+          },
+          "tracks": {
+           "totalCount": 31
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:5H7ixXZfsNMGbIE5OBSpcb"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2024 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2024 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 18,
+           "month": 4,
+           "precision": "DAY",
+           "year": 2024
+          },
+          "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+          "label": "Taylor Swift",
+          "name": "THE TORTURED POETS DEPARTMENT",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "b99U6GIeRpS-K4vHshK6ag",
+           "shareUrl": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt?si=b99U6GIeRpS-K4vHshK6ag"
+          },
+          "tracks": {
+           "totalCount": 16
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2023 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2023 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02dc2bacae1dca83d26e2b1949",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851dc2bacae1dca83d26e2b1949",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 27,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2023
+          },
+          "id": "1o59UpKw81iHR0HPiSkJR0",
+          "label": "Taylor Swift",
+          "name": "1989 (Taylor's Version) [Deluxe]",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "YfCF8cYZRoCMUrgTXkfw5A",
+           "shareUrl": "https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0?si=YfCF8cYZRoCMUrgTXkfw5A"
+          },
+          "tracks": {
+           "totalCount": 22
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:1o59UpKw81iHR0HPiSkJR0"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2023 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2023 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e024110bfab1185fdfc9dfc2cf0",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048514110bfab1185fdfc9dfc2cf0",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2734110bfab1185fdfc9dfc2cf0",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 26,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2023
+          },
+          "id": "64LU4c1nfjz1t4VnGhagcg",
+          "label": "Taylor Swift",
+          "name": "1989 (Taylor's Version)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "AsrcdZFLSLOug02L8pJ5Kg",
+           "shareUrl": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg?si=AsrcdZFLSLOug02L8pJ5Kg"
+          },
+          "tracks": {
+           "totalCount": 21
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:64LU4c1nfjz1t4VnGhagcg"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2023 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2023 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048510b04da4f224b51ff86e0a481",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 7,
+           "month": 7,
+           "precision": "DAY",
+           "year": 2023
+          },
+          "id": "5AEDGbliTTfjOB8TSm1sxt",
+          "label": "Taylor Swift",
+          "name": "Speak Now (Taylor's Version)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "Nx484gtVTIO86-9Nbh0pDQ",
+           "shareUrl": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt?si=Nx484gtVTIO86-9Nbh0pDQ"
+          },
+          "tracks": {
+           "totalCount": 22
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:5AEDGbliTTfjOB8TSm1sxt"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2023 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2023 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02fa747621a53c8e2cc436dee0",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851fa747621a53c8e2cc436dee0",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 26,
+           "month": 5,
+           "precision": "DAY",
+           "year": 2023
+          },
+          "id": "1fnJ7k0bllNfL1kVdNVW1A",
+          "label": "Taylor Swift",
+          "name": "Midnights (The Til Dawn Edition)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "NeKcS4buSFC0PHzUo_leXg",
+           "shareUrl": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A?si=NeKcS4buSFC0PHzUo_leXg"
+          },
+          "tracks": {
+           "totalCount": 23
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:1fnJ7k0bllNfL1kVdNVW1A"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2022 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2022 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02e0b60c608586d88252b8fbc0",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851e0b60c608586d88252b8fbc0",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 22,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2022
+          },
+          "id": "3lS1y25WAhcqJDATJK70Mq",
+          "label": "Taylor Swift",
+          "name": "Midnights (3am Edition)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "1gxm-a4jRrOArTeA0S21qg",
+           "shareUrl": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq?si=1gxm-a4jRrOArTeA0S21qg"
+          },
+          "tracks": {
+           "totalCount": 20
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:3lS1y25WAhcqJDATJK70Mq"
+         }
+        ]
+       }
+      }
+     ],
+     "totalCount": 33
+    },
+    "compilations": {
+     "items": [
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2024 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2024 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02c246cd7fb142b383672627c8",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851c246cd7fb142b383672627c8",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273c246cd7fb142b383672627c8",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 3,
+           "month": 10,
+           "precision": "DAY",
+           "year": 2024
+          },
+          "id": "30gDvYhEgyTbGEdCIY8FWV",
+          "label": "Taylor Swift",
+          "name": "THE TORTURED POETS DEPARTMENT | TS The Eras Tour Setlist",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "AQGAPoLnQOGaZ_IhAyMvNA",
+           "shareUrl": "https://open.spotify.com/album/30gDvYhEgyTbGEdCIY8FWV?si=AQGAPoLnQOGaZ_IhAyMvNA"
+          },
+          "tracks": {
+           "totalCount": 7
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:30gDvYhEgyTbGEdCIY8FWV"
+         }
+        ]
+       }
+      }
+     ],
+     "totalCount": 1
+    },
+    "latest": {
+     "copyright": {
+      "items": [
+       {
+        "text": "© 2026 Wonderland Music Company, Inc. (BMI) / Pixar Music (BMI) and Walt Disney Music Company (ASCAP) / Pixar Talking Pictures (ASCAP)",
+        "type": "C"
+       },
+       {
+        "text": "℗ 2026 Walt Disney Records / Pixar",
+        "type": "P"
+       }
+      ]
+     },
+     "coverArt": {
+      "sources": [
+       {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e8852f06eca817333d20e60b",
+        "width": 300
+       },
+       {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e8852f06eca817333d20e60b",
+        "width": 64
+       },
+       {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e8852f06eca817333d20e60b",
+        "width": 640
+       }
+      ]
+     },
+     "date": {
+      "day": 12,
+      "month": 6,
+      "precision": "DAY",
+      "year": 2026
+     },
+     "id": "4Ii9whWXI1O1H01ziECRaG",
+     "label": "Walt Disney Records / Pixar",
+     "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+     "playability": {
+      "playable": true,
+      "reason": "PLAYABLE"
+     },
+     "sharingInfo": {
+      "shareId": "nWDCayr3RDqi1QtIrOyP1A",
+      "shareUrl": "https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG?si=nWDCayr3RDqi1QtIrOyP1A"
+     },
+     "tracks": {
+      "totalCount": 3
+     },
+     "type": "SINGLE",
+     "uri": "spotify:album:4Ii9whWXI1O1H01ziECRaG"
+    },
+    "popularReleasesAlbums": {
+     "items": [
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2025 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2025 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 3,
+        "month": 10,
+        "precision": "DAY",
+        "year": 2025
+       },
+       "id": "4a6NzYL1YHRUgx9e3YZI6I",
+       "label": "Taylor Swift",
+       "name": "The Life of a Showgirl",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "Hj9xkcDvSTmbYZOcVErPmA",
+        "shareUrl": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I?si=Hj9xkcDvSTmbYZOcVErPmA"
+       },
+       "tracks": {
+        "totalCount": 12
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2019 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2019 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 23,
+        "month": 8,
+        "precision": "DAY",
+        "year": 2019
+       },
+       "id": "1NAmidJlEaVgA3MpcPFYGq",
+       "label": "Taylor Swift",
+       "name": "Lover",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "SKmGTa-CQ921EPT8LiLNgw",
+        "shareUrl": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq?si=SKmGTa-CQ921EPT8LiLNgw"
+       },
+       "tracks": {
+        "totalCount": 18
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2020 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2020 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 24,
+        "month": 7,
+        "precision": "DAY",
+        "year": 2020
+       },
+       "id": "2fenSS68JI1h4Fo296JfGr",
+       "label": "Taylor Swift",
+       "name": "folklore",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "Jw3UJVuMRQSxe0aV-Dr7JA",
+        "shareUrl": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr?si=Jw3UJVuMRQSxe0aV-Dr7JA"
+       },
+       "tracks": {
+        "totalCount": 16
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2017 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2017 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02da5d5aeeabacacc1263c0f4b",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851da5d5aeeabacacc1263c0f4b",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 10,
+        "month": 11,
+        "precision": "DAY",
+        "year": 2017
+       },
+       "id": "6DEjYFkNZh67HP7R9PSZvv",
+       "label": "Taylor Swift",
+       "name": "reputation",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "eaayN45KTW-UQZe25bgupA",
+        "shareUrl": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv?si=eaayN45KTW-UQZe25bgupA"
+       },
+       "tracks": {
+        "totalCount": 15
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:6DEjYFkNZh67HP7R9PSZvv"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2024 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2024 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518ecc33f195df6aa257c39eaa",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 19,
+        "month": 4,
+        "precision": "DAY",
+        "year": 2024
+       },
+       "id": "5H7ixXZfsNMGbIE5OBSpcb",
+       "label": "Taylor Swift",
+       "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "fFF7pC0jSoGj3Flb02J3iw",
+        "shareUrl": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb?si=fFF7pC0jSoGj3Flb02J3iw"
+       },
+       "tracks": {
+        "totalCount": 31
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2021 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2021 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851318443aab3531a0558e79a4d",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 12,
+        "month": 11,
+        "precision": "DAY",
+        "year": 2021
+       },
+       "id": "6kZ42qRrzov54LcAk4onW9",
+       "label": "Taylor Swift",
+       "name": "Red (Taylor's Version)",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "3fIVBFG6R260HNCY-C-8aw",
+        "shareUrl": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9?si=3fIVBFG6R260HNCY-C-8aw"
+       },
+       "tracks": {
+        "totalCount": 30
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:6kZ42qRrzov54LcAk4onW9"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2014 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2014 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 1,
+        "month": 1,
+        "precision": "DAY",
+        "year": 2014
+       },
+       "id": "1yGbNOtRIgdIiGHOEBaZWf",
+       "label": "Taylor Swift",
+       "name": "1989 (Deluxe)",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "fUuo-1VBTvmZ9F1exGdDhg",
+        "shareUrl": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf?si=fUuo-1VBTvmZ9F1exGdDhg"
+       },
+       "tracks": {
+        "totalCount": 19
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2023 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2023 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024110bfab1185fdfc9dfc2cf0",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514110bfab1185fdfc9dfc2cf0",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734110bfab1185fdfc9dfc2cf0",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 26,
+        "month": 10,
+        "precision": "DAY",
+        "year": 2023
+       },
+       "id": "64LU4c1nfjz1t4VnGhagcg",
+       "label": "Taylor Swift",
+       "name": "1989 (Taylor's Version)",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "1QWPYP95ReKkatsfu86CxQ",
+        "shareUrl": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg?si=1QWPYP95ReKkatsfu86CxQ"
+       },
+       "tracks": {
+        "totalCount": 21
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:64LU4c1nfjz1t4VnGhagcg"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2022 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2022 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bb54dde68cd23e2a268ae0f5",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 21,
+        "month": 10,
+        "precision": "DAY",
+        "year": 2022
+       },
+       "id": "151w1FgRZfnKZA9FEcg9Z3",
+       "label": "Taylor Swift",
+       "name": "Midnights",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "9InERu99ThqRhQ7fstToWw",
+        "shareUrl": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=9InERu99ThqRhQ7fstToWw"
+       },
+       "tracks": {
+        "totalCount": 13
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:151w1FgRZfnKZA9FEcg9Z3"
+      },
+      {
+       "copyright": {
+        "items": [
+         {
+          "text": "© 2024 Taylor Swift",
+          "type": "C"
+         },
+         {
+          "text": "℗ 2024 Taylor Swift",
+          "type": "P"
+         }
+        ]
+       },
+       "coverArt": {
+        "sources": [
+         {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025076e4160d018e378f488c33",
+          "width": 300
+         },
+         {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515076e4160d018e378f488c33",
+          "width": 64
+         },
+         {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+          "width": 640
+         }
+        ]
+       },
+       "date": {
+        "day": 18,
+        "month": 4,
+        "precision": "DAY",
+        "year": 2024
+       },
+       "id": "1Mo4aZ8pdj6L1jx8zSwJnt",
+       "label": "Taylor Swift",
+       "name": "THE TORTURED POETS DEPARTMENT",
+       "playability": {
+        "playable": true,
+        "reason": "PLAYABLE"
+       },
+       "sharingInfo": {
+        "shareId": "8keNkGUUQVGXIZHczuze_A",
+        "shareUrl": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt?si=8keNkGUUQVGXIZHczuze_A"
+       },
+       "tracks": {
+        "totalCount": 16
+       },
+       "type": "ALBUM",
+       "uri": "spotify:album:1Mo4aZ8pdj6L1jx8zSwJnt"
+      }
+     ],
+     "totalCount": 20
+    },
+    "singles": {
+     "items": [
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Wonderland Music Company, Inc. (BMI) / Pixar Music (BMI) and Walt Disney Music Company (ASCAP) / Pixar Talking Pictures (ASCAP)",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Walt Disney Records / Pixar",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02e8852f06eca817333d20e60b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851e8852f06eca817333d20e60b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273e8852f06eca817333d20e60b",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 12,
+           "month": 6,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "4Ii9whWXI1O1H01ziECRaG",
+          "label": "Walt Disney Records / Pixar",
+          "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "hyBs-O5DSZG1cfk8RkSsMg",
+           "shareUrl": "https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG?si=hyBs-O5DSZG1cfk8RkSsMg"
+          },
+          "tracks": {
+           "totalCount": 3
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:4Ii9whWXI1O1H01ziECRaG"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02dc6e4c7774e0c77c210d3a31",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851dc6e4c7774e0c77c210d3a31",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273dc6e4c7774e0c77c210d3a31",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 31,
+           "month": 3,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "71GTik4z9bbKKY2EmUvkDI",
+          "label": "Taylor Swift",
+          "name": "Elizabeth Taylor",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "WAH9U5E-SzaPhW-8BfEHAg",
+           "shareUrl": "https://open.spotify.com/album/71GTik4z9bbKKY2EmUvkDI?si=WAH9U5E-SzaPhW-8BfEHAg"
+          },
+          "tracks": {
+           "totalCount": 3
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:71GTik4z9bbKKY2EmUvkDI"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02156ba090375f53d5c8fac5c3",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851156ba090375f53d5c8fac5c3",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273156ba090375f53d5c8fac5c3",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 20,
+           "month": 2,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "1OioQUIAwZ6PE2V7UJUHX2",
+          "label": "Taylor Swift",
+          "name": "Opalite (Chris Lake Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "8h6YeEFyR5exeGEYlROw8Q",
+           "shareUrl": "https://open.spotify.com/album/1OioQUIAwZ6PE2V7UJUHX2?si=8h6YeEFyR5exeGEYlROw8Q"
+          },
+          "tracks": {
+           "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:1OioQUIAwZ6PE2V7UJUHX2"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e027796280b4d7e9692b354f902",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048517796280b4d7e9692b354f902",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2737796280b4d7e9692b354f902",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 19,
+           "month": 2,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "5oO9uwBHZAawqYnmPpVUUi",
+          "label": "Taylor Swift",
+          "name": "Opalite (BUNT. Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "GWvzboD-QBKWl3dL7E06ig",
+           "shareUrl": "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi?si=GWvzboD-QBKWl3dL7E06ig"
+          },
+          "tracks": {
+           "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:5oO9uwBHZAawqYnmPpVUUi"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e028100654494e42240857384d9",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048518100654494e42240857384d9",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2738100654494e42240857384d9",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 19,
+           "month": 2,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "72hPyRss6soJeGQLEek1qr",
+          "label": "Taylor Swift",
+          "name": "Opalite (Ely Oaks Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "yrrb_hoMR_m8QVpE8WVIZA",
+           "shareUrl": "https://open.spotify.com/album/72hPyRss6soJeGQLEek1qr?si=yrrb_hoMR_m8QVpE8WVIZA"
+          },
+          "tracks": {
+           "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:72hPyRss6soJeGQLEek1qr"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02bcde9224bc1fb45f15c7bc56",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851bcde9224bc1fb45f15c7bc56",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273bcde9224bc1fb45f15c7bc56",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 19,
+           "month": 2,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "6WNAGQ9MfrSyOFbMc66pCz",
+          "label": "Taylor Swift",
+          "name": "Opalite (Skream Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "DF7N0eMiQAm5r2rBL2Msrg",
+           "shareUrl": "https://open.spotify.com/album/6WNAGQ9MfrSyOFbMc66pCz?si=DF7N0eMiQAm5r2rBL2Msrg"
+          },
+          "tracks": {
+           "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:6WNAGQ9MfrSyOFbMc66pCz"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e028b312c2d2873e7da95e316d2",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048518b312c2d2873e7da95e316d2",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2738b312c2d2873e7da95e316d2",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 13,
+           "month": 2,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "0VBjFJFcHhu7QDocog6D3s",
+          "label": "Taylor Swift",
+          "name": "Opalite [Official Music Video (Extended Versions)]",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "ZAfayGzjRICR1uZ5BsC4GA",
+           "shareUrl": "https://open.spotify.com/album/0VBjFJFcHhu7QDocog6D3s?si=ZAfayGzjRICR1uZ5BsC4GA"
+          },
+          "tracks": {
+           "totalCount": 4
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:0VBjFJFcHhu7QDocog6D3s"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2026 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2026 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02c2458a6f0b5b67c1955d3bc3",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851c2458a6f0b5b67c1955d3bc3",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273c2458a6f0b5b67c1955d3bc3",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 6,
+           "month": 2,
+           "precision": "DAY",
+           "year": 2026
+          },
+          "id": "3evV0p6SkiOZFt1rtWRco9",
+          "label": "Taylor Swift",
+          "name": "Opalite",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "JgU21cq-SOqEplfc3r_8GA",
+           "shareUrl": "https://open.spotify.com/album/3evV0p6SkiOZFt1rtWRco9?si=JgU21cq-SOqEplfc3r_8GA"
+          },
+          "tracks": {
+           "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3evV0p6SkiOZFt1rtWRco9"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2025 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2025 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e025a9197396cb52631e73364b9",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048515a9197396cb52631e73364b9",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2735a9197396cb52631e73364b9",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 28,
+           "month": 11,
+           "precision": "DAY",
+           "year": 2025
+          },
+          "id": "264e9sevSUiitcQeM1y1C5",
+          "label": "Taylor Swift",
+          "name": "The Fate of Ophelia (The Chainsmokers Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "5fD8N2t7S96G2xbfAXskGQ",
+           "shareUrl": "https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5?si=5fD8N2t7S96G2xbfAXskGQ"
+          },
+          "tracks": {
+           "totalCount": 3
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:264e9sevSUiitcQeM1y1C5"
+         }
+        ]
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "copyright": {
+           "items": [
+            {
+             "text": "© 2025 Taylor Swift",
+             "type": "C"
+            },
+            {
+             "text": "℗ 2025 Taylor Swift",
+             "type": "P"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0239b6ce4f493d53cfba83170a",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485139b6ce4f493d53cfba83170a",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27339b6ce4f493d53cfba83170a",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "day": 6,
+           "month": 11,
+           "precision": "DAY",
+           "year": 2025
+          },
+          "id": "1Ed98OfVXz3CiJcupzuLTo",
+          "label": "Taylor Swift",
+          "name": "The Fate of Ophelia (Loud Luxury Remix)",
+          "playability": {
+           "playable": true,
+           "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+           "shareId": "vA5Zzn3ESbqklTDGZIlWrg",
+           "shareUrl": "https://open.spotify.com/album/1Ed98OfVXz3CiJcupzuLTo?si=vA5Zzn3ESbqklTDGZIlWrg"
+          },
+          "tracks": {
+           "totalCount": 3
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:1Ed98OfVXz3CiJcupzuLTo"
+         }
+        ]
+       }
+      }
+     ],
+     "totalCount": 79
+    },
+    "topTracks": {
+     "items": [
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902"
+           }
+          ]
+         },
+         "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 226073
+        },
+        "id": "53iuhJlwXhSER5J2IYYv1W",
+        "name": "The Fate of Ophelia",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1665656522",
+        "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W"
+       },
+       "uid": "231bf597ddd1da456200"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a"
+           }
+          ]
+         },
+         "uri": "spotify:album:1yGbNOtRIgdIiGHOEBaZWf"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 231826
+        },
+        "id": "1u8c2t2Cy7UBoG4ArRcF5g",
+        "name": "Blank Space",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "2595751215",
+        "uri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
+       },
+       "uid": "f92a92d51e4b73c55f01"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a35a1d4983e2b4fd0094f910"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851a35a1d4983e2b4fd0094f910"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a35a1d4983e2b4fd0094f910"
+           }
+          ]
+         },
+         "uri": "spotify:album:3ZLIShtR6Fjs4nTWFpBUB6"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 178186
+        },
+        "id": "5uPaqMMt59KGrdKIitDRqa",
+        "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "188983482",
+        "uri": "spotify:track:5uPaqMMt59KGrdKIitDRqa"
+       },
+       "uid": "063fb4f3170db71ba947"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902"
+           }
+          ]
+         },
+         "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 235355
+        },
+        "id": "3yWuTOYDztXjZxdE2cIRUa",
+        "name": "Opalite",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "875411646",
+        "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa"
+       },
+       "uid": "aac5e90b1943fc9cea6e"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647"
+           }
+          ]
+         },
+         "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 178426
+        },
+        "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "name": "Cruel Summer",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "3487416380",
+        "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+       },
+       "uid": "7ce5d12c6592e4aad55b"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a"
+           }
+          ]
+         },
+         "uri": "spotify:album:1yGbNOtRIgdIiGHOEBaZWf"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 231000
+        },
+        "id": "0ug5NqcwcFR2xrfTkc7k8e",
+        "name": "Style",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1901400102",
+        "uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+       },
+       "uid": "ca25f2d600c9e02101c7"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc"
+           }
+          ]
+         },
+         "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 0
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 261922
+        },
+        "id": "3hUxzQpSfdDqwM3ZTFQY0K",
+        "name": "august",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1890647094",
+        "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+       },
+       "uid": "7efff6bd7f2532bffcbd"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a"
+           }
+          ]
+         },
+         "uri": "spotify:album:1yGbNOtRIgdIiGHOEBaZWf"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 219200
+        },
+        "id": "0cqRj7pUJDkTCEsJkx8snD",
+        "name": "Shake It Off",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "1996320251",
+        "uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+       },
+       "uid": "d62e84b2e5e5444309f8"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc"
+           }
+          ]
+         },
+         "uri": "spotify:album:2fenSS68JI1h4Fo296JfGr"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 239560
+        },
+        "id": "4R2kfaDFhslZEMJqAFNpdd",
+        "name": "cardigan",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "2075347684",
+        "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+       },
+       "uid": "6eacf05d6b6c20b4e062"
+      },
+      {
+       "track": {
+        "albumOfTrack": {
+         "coverArt": {
+          "sources": [
+           {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647"
+           },
+           {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647"
+           }
+          ]
+         },
+         "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq"
+        },
+        "artists": {
+         "items": [
+          {
+           "profile": {
+            "name": "Taylor Swift"
+           },
+           "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+          }
+         ]
+        },
+        "associationsV3": {
+         "videoAssociations": {
+          "totalCount": 1
+         }
+        },
+        "contentRating": {
+         "label": "NONE"
+        },
+        "discNumber": 1,
+        "duration": {
+         "totalMilliseconds": 221306
+        },
+        "id": "1dGr1c8CrMLDpV6mPbImSI",
+        "name": "Lover",
+        "playability": {
+         "playable": true,
+         "reason": "PLAYABLE"
+        },
+        "playcount": "2116556195",
+        "uri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+       },
+       "uid": "8c5e259fe44e344a7325"
+      }
+     ]
+    }
+   },
+   "goods": {
+    "concerts": {
+     "items": [],
+     "totalCount": 0
+    },
+    "merch": {
+     "items": []
+    }
+   },
+   "headerImage": {
+    "data": {
+     "__typename": "ImageV2",
+     "sources": [
+      {
+       "maxHeight": 640,
+       "maxWidth": 1494,
+       "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600000194c45b07608a062f02a9c89bab"
+      },
+      {
+       "maxHeight": 1080,
+       "maxWidth": 1920,
+       "url": "https://i2o.scdn.co/image/ab67618600001667c45b07608a062f02a9c89bab"
+      },
+      {
+       "maxHeight": 1080,
+       "maxWidth": 1920,
+       "url": "https://i2o.scdn.co/image/ab67618600001667c45b07608a062f02a9c89bab"
+      },
+      {
+       "maxHeight": 641,
+       "maxWidth": 1495,
+       "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d80c45b07608a062f02a9c89bab"
+      },
+      {
+       "maxHeight": 1140,
+       "maxWidth": 2660,
+       "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab1c45b07608a062f02a9c89bab"
+      }
+     ]
+    }
+   },
+   "id": "06HL4z0CvFAxyc27GXpf02",
+   "preRelease": null,
+   "profile": {
+    "biography": {
+     "text": "And, baby, that’s show business for you. New album The Life of a Showgirl. Available now ❤️‍&#x1f525;",
+     "type": "AUTOBIOGRAPHY"
+    },
+    "externalLinks": {
+     "items": [
+      {
+       "name": "FACEBOOK",
+       "url": "https://facebook.com/TaylorSwift"
+      },
+      {
+       "name": "INSTAGRAM",
+       "url": "https://instagram.com/taylorswift"
+      },
+      {
+       "name": "TWITTER",
+       "url": "https://twitter.com/taylorswift13"
+      }
+     ]
+    },
+    "name": "Taylor Swift",
+    "pinnedItem": {
+     "backgroundImageV2": null,
+     "comment": "It’s all here. Watch now. ",
+     "itemV2": {
+      "__typename": "PlaylistResponseWrapper",
+      "data": {
+       "__typename": "Playlist",
+       "images": {
+        "items": [
+         {
+          "sources": [
+           {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f000000028b75100c7db8e29a890d68f0",
+            "width": null
+           }
+          ]
+         }
+        ]
+       },
+       "name": "Taylor Swift - The Videos",
+       "uri": "spotify:playlist:37i9dQZF1DXe7fP0uj1s1D"
+      }
+     },
+     "subtitle": "Playlist",
+     "thumbnailImage": {
+      "data": {
+       "sources": [
+        {
+         "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706f000003118b75100c7db8e29a890d68f0"
+        },
+        {
+         "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706f000036f38b75100c7db8e29a890d68f0"
+        },
+        {
+         "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706f00009e8c8b75100c7db8e29a890d68f0"
+        }
+       ]
+      }
+     },
+     "title": "Taylor Swift - The Videos",
+     "type": "PLAYLIST",
+     "uri": "spotify:playlist:37i9dQZF1DXe7fP0uj1s1D"
+    },
+    "playlistsV2": {
+     "items": [
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cdcef9bbc0ba7be550664fe13",
+             "width": null
+            }
+           ]
+          }
+         ]
+        },
+        "name": "And, baby, that’s show business for you ❤️‍🔥",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Taylor Swift"
+         }
+        },
+        "uri": "spotify:playlist:65uAjFTt4N8sEJeonhNOBL"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "Everything <a href=\"https://www.taylorswift.com/\">Taylor Swift</a> Right Here",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8450c3581c282b1b2871248e85",
+             "width": null
+            }
+           ]
+          }
+         ]
+        },
+        "name": "Taylor Swift Complete Collection",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Taylor Swift"
+         }
+        },
+        "uri": "spotify:playlist:4GtQVhGjAwcHFz82UKy3Ca"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "Songs From Lover Performed Live In Paris ",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c8810d6b470de5a439b491000",
+             "width": null
+            }
+           ]
+          }
+         ]
+        },
+        "name": "Live From Paris",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Taylor Swift"
+         }
+        },
+        "uri": "spotify:playlist:1Ew1IbrHjmNedkANLw1jdr"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The complete setlist from the Taylor Swift reputation Stadium Tour including special guests",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d17e192d4a08b8d87b6baa18",
+             "width": null
+            }
+           ]
+          }
+         ]
+        },
+        "name": "rep Tour and Friends",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Taylor Swift"
+         }
+        },
+        "uri": "spotify:playlist:074AoVXFnnlKmSpz28uqe0"
+       }
+      }
+     ],
+     "totalCount": 4
+    },
+    "verified": true
+   },
+   "relatedContent": {
+    "appearsOn": {
+     "items": [
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Gracie Abrams"
+             },
+             "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048511dac3694b3289cd903cb3acf",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2024
+          },
+          "id": "0hBRqPYPXhr1RkTDG3n4Mk",
+          "name": "The Secret of Us (Deluxe)",
+          "sharingInfo": {
+           "shareId": "gYw-1GkUQ8ungkwIj7y4UQ",
+           "shareUrl": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk?si=gYw-1GkUQ8ungkwIj7y4UQ"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:0hBRqPYPXhr1RkTDG3n4Mk"
+         },
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Gracie Abrams"
+             },
+             "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02aa03e0d932f0f936f2f81f9f",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851aa03e0d932f0f936f2f81f9f",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273aa03e0d932f0f936f2f81f9f",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2024
+          },
+          "id": "7ce3IkZzM0jPo2KfB7iDVU",
+          "name": "The Secret of Us (Deluxe)",
+          "sharingInfo": {
+           "shareId": "cpKsQq0jShGoZoirHC2uVw",
+           "shareUrl": "https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU?si=cpKsQq0jShGoZoirHC2uVw"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:7ce3IkZzM0jPo2KfB7iDVU"
+         }
+        ],
+        "totalCount": 2
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Gracie Abrams"
+             },
+             "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048516e2101520787791370f4a96b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2024
+          },
+          "id": "56bdWeO40o3WfAD2Lja4dl",
+          "name": "The Secret of Us",
+          "sharingInfo": {
+           "shareId": "PTqgxgRwQ7ed03gROThFgQ",
+           "shareUrl": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl?si=PTqgxgRwQ7ed03gROThFgQ"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:56bdWeO40o3WfAD2Lja4dl"
+         },
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Gracie Abrams"
+             },
+             "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048514ba1c73e08db2c003a78e148",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2024
+          },
+          "id": "4XXTsu7r9865VvXdvF2iQP",
+          "name": "The Secret of Us",
+          "sharingInfo": {
+           "shareId": "3I27ac5bROOTDjaB-9RaUA",
+           "shareUrl": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP?si=3I27ac5bROOTDjaB-9RaUA"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:4XXTsu7r9865VvXdvF2iQP"
+         }
+        ],
+        "totalCount": 2
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Various Artists"
+             },
+             "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e020e8ba185f3e9f15630a7b5fb",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048510e8ba185f3e9f15630a7b5fb",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2730e8ba185f3e9f15630a7b5fb",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2009
+          },
+          "id": "1fc8tPf36cZhNYpNFrWh7o",
+          "name": "Hannah Montana The Movie",
+          "sharingInfo": {
+           "shareId": "Ps-0xMRfSp2E4xtQPDCJ-w",
+           "shareUrl": "https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o?si=Ps-0xMRfSp2E4xtQPDCJ-w"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:1fc8tPf36cZhNYpNFrWh7o"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Various Artists"
+             },
+             "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e025997605214d568d73fd365c2",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048515997605214d568d73fd365c2",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2735997605214d568d73fd365c2",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2017
+          },
+          "id": "5VML6S956h4YfoYPooqLEi",
+          "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+          "sharingInfo": {
+           "shareId": "TCDCkykTSl2xrDf7CYiDOg",
+           "shareUrl": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi?si=TCDCkykTSl2xrDf7CYiDOg"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:5VML6S956h4YfoYPooqLEi"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "B.o.B"
+             },
+             "uri": "spotify:artist:5ndkK3dpZLKtBklKjxNQwT"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02cbc3bf3407cc078f63aa498a",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851cbc3bf3407cc078f63aa498a",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273cbc3bf3407cc078f63aa498a",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2012
+          },
+          "id": "5JXkw4LxF9hvWECwy2Mzgy",
+          "name": "Strange Clouds",
+          "sharingInfo": {
+           "shareId": "A_hLfERSQTqB_vti4XCaOA",
+           "shareUrl": "https://open.spotify.com/album/5JXkw4LxF9hvWECwy2Mzgy?si=A_hLfERSQTqB_vti4XCaOA"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:5JXkw4LxF9hvWECwy2Mzgy"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "BOYS LIKE GIRLS"
+             },
+             "uri": "spotify:artist:0vWCyXMrrvMlCcepuOJaGI"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e024b580b2641d4f6486b299247",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048514b580b2641d4f6486b299247",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2734b580b2641d4f6486b299247",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2009
+          },
+          "id": "7DphDayDRJ1NtRmveflFWD",
+          "name": "Love Drunk",
+          "sharingInfo": {
+           "shareId": "9OjxOPxqRo6jtNF2BL01Tg",
+           "shareUrl": "https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD?si=9OjxOPxqRo6jtNF2BL01Tg"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:7DphDayDRJ1NtRmveflFWD"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Big Red Machine"
+             },
+             "uri": "spotify:artist:7gXy60xRcwYujBFoYHnR2O"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02fbab613f887083f7ee11a1de",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851fbab613f887083f7ee11a1de",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273fbab613f887083f7ee11a1de",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2021
+          },
+          "id": "3YbMxdapL6mvSQjosFkc0T",
+          "name": "How Long Do You Think It's Gonna Last?",
+          "sharingInfo": {
+           "shareId": "Sm150ujISxuziy0k56w4XA",
+           "shareUrl": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T?si=Sm150ujISxuziy0k56w4XA"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:3YbMxdapL6mvSQjosFkc0T"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "The National"
+             },
+             "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02364c819937072957a9220847",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851364c819937072957a9220847",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273364c819937072957a9220847",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2023
+          },
+          "id": "5Mc6uebYtKnRc5I7bjlNB6",
+          "name": "First Two Pages of Frankenstein",
+          "sharingInfo": {
+           "shareId": "Efm7eWXFRE2Iz8NDLmG5jA",
+           "shareUrl": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6?si=Efm7eWXFRE2Iz8NDLmG5jA"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:5Mc6uebYtKnRc5I7bjlNB6"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "HAIM"
+             },
+             "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02667f8cfd1be0d0cc2b825e25",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851667f8cfd1be0d0cc2b825e25",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273667f8cfd1be0d0cc2b825e25",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2021
+          },
+          "id": "79thwyFL6Uo6rgTp3YWEAf",
+          "name": "Women In Music Pt III (Expanded Edition)",
+          "sharingInfo": {
+           "shareId": "M5X9jJymQtq3_9o_wCsZjw",
+           "shareUrl": "https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf?si=M5X9jJymQtq3_9o_wCsZjw"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:79thwyFL6Uo6rgTp3YWEAf"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Various Artists"
+             },
+             "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02d29a5d713277b0b3d517507b",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851d29a5d713277b0b3d517507b",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273d29a5d713277b0b3d517507b",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2012
+          },
+          "id": "45nqVXRAW0xv0wpU9JljPN",
+          "name": "The Hunger Games: Songs From District 12 And Beyond",
+          "sharingInfo": {
+           "shareId": "eUuoReD8RoGNG7BhNmrIKw",
+           "shareUrl": "https://open.spotify.com/album/45nqVXRAW0xv0wpU9JljPN?si=eUuoReD8RoGNG7BhNmrIKw"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:45nqVXRAW0xv0wpU9JljPN"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Randy Newman"
+             },
+             "uri": "spotify:artist:3HQyFCFFfJO3KKBlUfZsyW"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02392fca14f183d47915fdd89f",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851392fca14f183d47915fdd89f",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273392fca14f183d47915fdd89f",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2026
+          },
+          "id": "6G2u8sy0sQvyALLoTTXkzn",
+          "name": "Toy Story 5 (Original Motion Picture Soundtrack)",
+          "sharingInfo": {
+           "shareId": "8VVPdanjThuZD0UWyOnddA",
+           "shareUrl": "https://open.spotify.com/album/6G2u8sy0sQvyALLoTTXkzn?si=8VVPdanjThuZD0UWyOnddA"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6G2u8sy0sQvyALLoTTXkzn"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Sugarland"
+             },
+             "uri": "spotify:artist:0hYxQe3AK5jBPCr5MumLHD"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0233452cbadb9db9189edd7250",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485133452cbadb9db9189edd7250",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27333452cbadb9db9189edd7250",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2018
+          },
+          "id": "56XXDc04Gugu3CknMcsWLY",
+          "name": "Bigger",
+          "sharingInfo": {
+           "shareId": "4cNPculJQp-jPHEVvdz7NQ",
+           "shareUrl": "https://open.spotify.com/album/56XXDc04Gugu3CknMcsWLY?si=4cNPculJQp-jPHEVvdz7NQ"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:56XXDc04Gugu3CknMcsWLY"
+         },
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Sugarland"
+             },
+             "uri": "spotify:artist:0hYxQe3AK5jBPCr5MumLHD"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0257d5b94f3c7cf5e01d201a96",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485157d5b94f3c7cf5e01d201a96",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27357d5b94f3c7cf5e01d201a96",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2018
+          },
+          "id": "5ioJN2uvfbqEvap889sU9L",
+          "name": "Bigger (Big Machine Radio Release Special)",
+          "sharingInfo": {
+           "shareId": "yLl1f_QWQ7a8mG03A2mJrQ",
+           "shareUrl": "https://open.spotify.com/album/5ioJN2uvfbqEvap889sU9L?si=yLl1f_QWQ7a8mG03A2mJrQ"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:5ioJN2uvfbqEvap889sU9L"
+         }
+        ],
+        "totalCount": 2
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Various Artists"
+             },
+             "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0296585325ff31651e1509f4bf",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485196585325ff31651e1509f4bf",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27396585325ff31651e1509f4bf",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2021
+          },
+          "id": "6eWjlIIzUgYLsyMzPMQoSH",
+          "name": "Sunset Vibes",
+          "sharingInfo": {
+           "shareId": "yOyofZdITJeI676-ao9UFA",
+           "shareUrl": "https://open.spotify.com/album/6eWjlIIzUgYLsyMzPMQoSH?si=yOyofZdITJeI676-ao9UFA"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:6eWjlIIzUgYLsyMzPMQoSH"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Various Artists"
+             },
+             "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02709938f1d67191cc8229532d",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851709938f1d67191cc8229532d",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273709938f1d67191cc8229532d",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2022
+          },
+          "id": "2AHgvPZuw7CwyyGNw4GEa1",
+          "name": "Tokyo Moon",
+          "sharingInfo": {
+           "shareId": "Ta-I0JxoQlejU2OMDn-rHA",
+           "shareUrl": "https://open.spotify.com/album/2AHgvPZuw7CwyyGNw4GEa1?si=Ta-I0JxoQlejU2OMDn-rHA"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:2AHgvPZuw7CwyyGNw4GEa1"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Kenny Chesney"
+             },
+             "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e026bbd0e8ab9014bb01421b731",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048516bbd0e8ab9014bb01421b731",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2736bbd0e8ab9014bb01421b731",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2017
+          },
+          "id": "2njb3cHa1yhUMdu8PT2VhY",
+          "name": "Live in No Shoes Nation",
+          "sharingInfo": {
+           "shareId": "LL8dA7EqQOaup6w4JITNCw",
+           "shareUrl": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY?si=LL8dA7EqQOaup6w4JITNCw"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:2njb3cHa1yhUMdu8PT2VhY"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Tim McGraw"
+             },
+             "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02af1e96b5514b5744bf5210fd",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851af1e96b5514b5744bf5210fd",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273af1e96b5514b5744bf5210fd",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2013
+          },
+          "id": "08eQjFT0T2EGVFG5WeCe2V",
+          "name": "Two Lanes Of Freedom",
+          "sharingInfo": {
+           "shareId": "T7pFXVhxTn-HTjVa0I0zyw",
+           "shareUrl": "https://open.spotify.com/album/08eQjFT0T2EGVFG5WeCe2V?si=T7pFXVhxTn-HTjVa0I0zyw"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:08eQjFT0T2EGVFG5WeCe2V"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Andrew Lloyd Webber"
+             },
+             "uri": "spotify:artist:4aP1lp10BRYZO658B2NwkG"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0270d80ce758278c0ac3a63d9e",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485170d80ce758278c0ac3a63d9e",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27370d80ce758278c0ac3a63d9e",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2019
+          },
+          "id": "3OjtXmDVcfHAjJOS3xBoYU",
+          "name": "Cats: Highlights From The Motion Picture Soundtrack",
+          "sharingInfo": {
+           "shareId": "no6h6oMwQ2KUYAiZdeLDWA",
+           "shareUrl": "https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU?si=no6h6oMwQ2KUYAiZdeLDWA"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:3OjtXmDVcfHAjJOS3xBoYU"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Alis Huws"
+             },
+             "uri": "spotify:artist:2j7K232K5qH6xEr8OsmK1S"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e023288d3aebd519ba5e147850e",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d000048513288d3aebd519ba5e147850e",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b2733288d3aebd519ba5e147850e",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2024
+          },
+          "id": "6KsrPQ6TYATNYWeZZ5Ib9I",
+          "name": "Long Nights and Starry Skies",
+          "sharingInfo": {
+           "shareId": "8QRgHYb1QLCqjuRnitSDow",
+           "shareUrl": "https://open.spotify.com/album/6KsrPQ6TYATNYWeZZ5Ib9I?si=8QRgHYb1QLCqjuRnitSDow"
+          },
+          "type": "ALBUM",
+          "uri": "spotify:album:6KsrPQ6TYATNYWeZZ5Ib9I"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Various Artists"
+             },
+             "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e02556bc7c1c74556c7b262a390",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d00004851556bc7c1c74556c7b262a390",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b273556bc7c1c74556c7b262a390",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2010
+          },
+          "id": "1ZGj2rmljG9GzQefdSHPQK",
+          "name": "Hits Of 2009",
+          "sharingInfo": {
+           "shareId": "FmZ3dV2xQp62k8XYiG9JDg",
+           "shareUrl": "https://open.spotify.com/album/1ZGj2rmljG9GzQefdSHPQK?si=FmZ3dV2xQp62k8XYiG9JDg"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:1ZGj2rmljG9GzQefdSHPQK"
+         }
+        ],
+        "totalCount": 1
+       }
+      },
+      {
+       "releases": {
+        "items": [
+         {
+          "artists": {
+           "items": [
+            {
+             "profile": {
+              "name": "Tim McGraw"
+             },
+             "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+            }
+           ]
+          },
+          "coverArt": {
+           "sources": [
+            {
+             "height": 300,
+             "url": "https://i.scdn.co/image/ab67616d00001e0260f1cfb932cd837d15ee0adb",
+             "width": 300
+            },
+            {
+             "height": 64,
+             "url": "https://i.scdn.co/image/ab67616d0000485160f1cfb932cd837d15ee0adb",
+             "width": 64
+            },
+            {
+             "height": 640,
+             "url": "https://i.scdn.co/image/ab67616d0000b27360f1cfb932cd837d15ee0adb",
+             "width": 640
+            }
+           ]
+          },
+          "date": {
+           "year": 2020
+          },
+          "id": "4i6olxzWoJ27X15Cf8lmFD",
+          "name": "McGraw Machine Hits: 2013-2019",
+          "sharingInfo": {
+           "shareId": "S1AnatQ5R_mpKIteM5CkxA",
+           "shareUrl": "https://open.spotify.com/album/4i6olxzWoJ27X15Cf8lmFD?si=S1AnatQ5R_mpKIteM5CkxA"
+          },
+          "type": "COMPILATION",
+          "uri": "spotify:album:4i6olxzWoJ27X15Cf8lmFD"
+         }
+        ],
+        "totalCount": 1
+       }
+      }
+     ],
+     "totalCount": 158
+    },
+    "discoveredOnV2": {
+     "items": [
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The essential tracks, all in one playlist.",
+        "id": "37i9dQZF1DX5KpP2LN299J",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f00000002a101d896dc6e158b275c31ac",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "This Is Taylor Swift",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "ALL TAYLOR SWIFT SONGS in order. All taylors versions included. 🤍",
+        "id": "1mwIluT6YC7UOrVfMNoowr",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c5ab505a1843fa09c168293aa",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "All Taylor Swift Songs",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Giselle ⸆⸉"
+         }
+        },
+        "uri": "spotify:playlist:1mwIluT6YC7UOrVfMNoowr"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "Everything <a href=\"https://www.taylorswift.com/\">Taylor Swift</a> Right Here",
+        "id": "4GtQVhGjAwcHFz82UKy3Ca",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8450c3581c282b1b2871248e85",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Taylor Swift Complete Collection",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Taylor Swift"
+         }
+        },
+        "uri": "spotify:playlist:4GtQVhGjAwcHFz82UKy3Ca"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "*Not offical playlist or album* greatest songs of Taylor’s version &amp; original songs",
+        "id": "0Y44bc2Fd2IfbhqSPnNlTC",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": 640,
+             "url": "https://mosaic.scdn.co/640/ab67616d00001e025076e4160d018e378f488c33ab67616d00001e02bb54dde68cd23e2a268ae0f5ab67616d00001e02d7812467811a7da6e6a44902ab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 640
+            },
+            {
+             "height": 300,
+             "url": "https://mosaic.scdn.co/300/ab67616d00001e025076e4160d018e378f488c33ab67616d00001e02bb54dde68cd23e2a268ae0f5ab67616d00001e02d7812467811a7da6e6a44902ab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 300
+            },
+            {
+             "height": 60,
+             "url": "https://mosaic.scdn.co/60/ab67616d00001e025076e4160d018e378f488c33ab67616d00001e02bb54dde68cd23e2a268ae0f5ab67616d00001e02d7812467811a7da6e6a44902ab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 60
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Taylor Swift: Hits and Best of",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Chris Brough"
+         }
+        },
+        "uri": "spotify:playlist:0Y44bc2Fd2IfbhqSPnNlTC"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "pov: all of them :)",
+        "id": "1JLB7C9BQlZXixHWssD8m1",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c435c7ca78f2c0d39b8de61a9",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "best taylor swift bridges to scream at (hitting strong at 3am)",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "san"
+         }
+        },
+        "uri": "spotify:playlist:1JLB7C9BQlZXixHWssD8m1"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "",
+        "id": "03nRwOD94aCJny6DEHMda4",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": 640,
+             "url": "https://mosaic.scdn.co/640/ab67616d00001e0252b2a3824413eefe9e33817aab67616d00001e0295f754318336a07e85ec59bcab67616d00001e02a48964b5d9a3d6968ae3e0deab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 640
+            },
+            {
+             "height": 300,
+             "url": "https://mosaic.scdn.co/300/ab67616d00001e0252b2a3824413eefe9e33817aab67616d00001e0295f754318336a07e85ec59bcab67616d00001e02a48964b5d9a3d6968ae3e0deab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 300
+            },
+            {
+             "height": 60,
+             "url": "https://mosaic.scdn.co/60/ab67616d00001e0252b2a3824413eefe9e33817aab67616d00001e0295f754318336a07e85ec59bcab67616d00001e02a48964b5d9a3d6968ae3e0deab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 60
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "taylor swift playlist ( a really good  playlist )",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "ayeee"
+         }
+        },
+        "uri": "spotify:playlist:03nRwOD94aCJny6DEHMda4"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The hottest 50. Cover: Miley Cyrus",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f00000002622db66d648829915229cb74",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Today’s Top Hits",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "",
+        "id": "1j94hyUHVrN276VTfuDx5Y",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": 640,
+             "url": "https://mosaic.scdn.co/640/ab67616d00001e020b04da4f224b51ff86e0a481ab67616d00001e024110bfab1185fdfc9dfc2cf0ab67616d00001e02a48964b5d9a3d6968ae3e0deab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 640
+            },
+            {
+             "height": 300,
+             "url": "https://mosaic.scdn.co/300/ab67616d00001e020b04da4f224b51ff86e0a481ab67616d00001e024110bfab1185fdfc9dfc2cf0ab67616d00001e02a48964b5d9a3d6968ae3e0deab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 300
+            },
+            {
+             "height": 60,
+             "url": "https://mosaic.scdn.co/60/ab67616d00001e020b04da4f224b51ff86e0a481ab67616d00001e024110bfab1185fdfc9dfc2cf0ab67616d00001e02a48964b5d9a3d6968ae3e0deab67616d00001e02e787cffec20aa2a396a61647",
+             "width": 60
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "best (most popular/well known) taylor swift songs",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "ila gayatri"
+         }
+        },
+        "uri": "spotify:playlist:1j94hyUHVrN276VTfuDx5Y"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "A mega mix of 75 favorites from the last few years! ",
+        "id": "37i9dQZF1DXbYM3nMM0oPk",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f000000020f97a2e6102ec66249888e81",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Mega Hit Mix",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DXbYM3nMM0oPk"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "All the songs from the new setlist for Taylor Swift | The Eras Tour.",
+        "id": "37i9dQZF1DX0D996ZXujBy",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f000000027763f39f192262f9cc088529",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Taylor Swift | The Eras Tour Official Setlist",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DX0D996ZXujBy"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "mix of tv and originals!",
+        "id": "3dgpO6mDWzdpMhyttrVi9t",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cc89cedb88d5cf03e31f7d1f2",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "all taylor swift songs",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "semma"
+         }
+        },
+        "uri": "spotify:playlist:3dgpO6mDWzdpMhyttrVi9t"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      },
+      {
+       "data": {
+        "__typename": "GenericError"
+       }
+      }
+     ],
+     "totalCount": 100
+    },
+    "featuringV2": {
+     "items": [
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The essential tracks, all in one playlist.",
+        "id": "37i9dQZF1DX5KpP2LN299J",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f00000002a101d896dc6e158b275c31ac",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "This Is Taylor Swift",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "A mega mix of 75 favorites from the last few years! ",
+        "id": "37i9dQZF1DXbYM3nMM0oPk",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f000000020f97a2e6102ec66249888e81",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Mega Hit Mix",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DXbYM3nMM0oPk"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The biggest songs of the 2010s. Cover: Justin Bieber",
+        "id": "37i9dQZF1DX5Ejj0EkURtP",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f00000002ddeb90231491c14812b062ff",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "All Out 2010s",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "Every Taylor Swift music video. Watch now.",
+        "id": "37i9dQZF1DXe7fP0uj1s1D",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f000000028b75100c7db8e29a890d68f0",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Taylor Swift - The Videos",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DXe7fP0uj1s1D"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The hottest 50. Cover: Miley Cyrus",
+        "id": "37i9dQZF1DXcBWIGoYBM5M",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f00000002622db66d648829915229cb74",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Today’s Top Hits",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The hottest tracks in India. \nCover: Dua Lipa",
+        "id": "37i9dQZF1DX0ieekvzt1Ic",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f00000002158589910976df085976e8e8",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Hot Hits India",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DX0ieekvzt1Ic"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "The biggest party hits of the 2010s. ",
+        "id": "37i9dQZF1DWWylYLMvjuRG",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f000000021cb757ccbe7a4f7e0e67fe4a",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "Party Hits 2010s",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DWWylYLMvjuRG"
+       }
+      },
+      {
+       "data": {
+        "__typename": "Playlist",
+        "description": "Mixing the decades: 1990s, 2000s, 2010s and 2020s.",
+        "id": "37i9dQZF1DWUZMtnnlvJ9p",
+        "images": {
+         "items": [
+          {
+           "sources": [
+            {
+             "height": null,
+             "url": "https://i.scdn.co/image/ab67706f000000028f6b6a1c1b242422148d09e8",
+             "width": null
+            }
+           ]
+          }
+         ],
+         "totalCount": 1
+        },
+        "name": "The Ultimate Hit Mix",
+        "ownerV2": {
+         "data": {
+          "__typename": "User",
+          "name": "Spotify"
+         }
+        },
+        "uri": "spotify:playlist:37i9dQZF1DWUZMtnnlvJ9p"
+       }
+      }
+     ],
+     "totalCount": 8
+    },
+    "relatedArtists": {
+     "items": [
+      {
+       "id": "74KM79TiuVKeVCqs8QtB0B",
+       "profile": {
+        "name": "Sabrina Carpenter"
+       },
+       "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17878e45cfa4697ce3c437cb455",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517478e45cfa4697ce3c437cb455",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "1McMsnEElThX1knmY4oliG",
+       "profile": {
+        "name": "Olivia Rodrigo"
+       },
+       "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178b14eb4dcfd2f3858bed06e44",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174b14eb4dcfd2f3858bed06e44",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "66CXWjxzNUsdJxJ2JdwvnR",
+       "profile": {
+        "name": "Ariana Grande"
+       },
+       "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb68412f2d0177a9ebc265ff58",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17868412f2d0177a9ebc265ff58",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517468412f2d0177a9ebc265ff58",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "4tuJ0bMpJh08umKkEXKUI5",
+       "profile": {
+        "name": "Gracie Abrams"
+       },
+       "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17818e3675ebfda9c29cfb2b57e",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517418e3675ebfda9c29cfb2b57e",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "6KImCVD70vtIoJWnq6nGn3",
+       "profile": {
+        "name": "Harry Styles"
+       },
+       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178e309f8c3056a59f20d0968ca",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "5YGY8feqx7naU7z4HrwZM6",
+       "profile": {
+        "name": "Miley Cyrus"
+       },
+       "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebe6431a229c528350779bf77e",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178e6431a229c528350779bf77e",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174e6431a229c528350779bf77e",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+       "profile": {
+        "name": "One Direction"
+       },
+       "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79",
+           "width": 640
+          },
+          {
+           "height": 64,
+           "url": "https://i.scdn.co/image/6c89c662ad0ab75bc2af9a3ae2b16f811daced50",
+           "width": 64
+          },
+          {
+           "height": 200,
+           "url": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
+           "width": 200
+          },
+          {
+           "height": 1000,
+           "url": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8",
+           "width": 1000
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+       "profile": {
+        "name": "Selena Gomez"
+       },
+       "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb815e520e3ce7fe210046ba66",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178815e520e3ce7fe210046ba66",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174815e520e3ce7fe210046ba66",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "1uNFoZAHBGtllmzznpCI3s",
+       "profile": {
+        "name": "Justin Bieber"
+       },
+       "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178af20f7db5288bce9beede034",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "6jJ0s89eD6GaHleKKya26X",
+       "profile": {
+        "name": "Katy Perry"
+       },
+       "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebcd50e745cf782f905769f482",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178cd50e745cf782f905769f482",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174cd50e745cf782f905769f482",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "45dkTj5sMRSjrmBSBeiHym",
+       "profile": {
+        "name": "Tate McRae"
+       },
+       "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebbed8016bd64422793ff3bc75",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178bed8016bd64422793ff3bc75",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174bed8016bd64422793ff3bc75",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "00FQb4jTyendYWaN8pK0wa",
+       "profile": {
+        "name": "Lana Del Rey"
+       },
+       "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "6M2wZ9GZgrQXHCFfjv46we",
+       "profile": {
+        "name": "Dua Lipa"
+       },
+       "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f1780c68f6c95232e716f0abee8d",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab676161000051740c68f6c95232e716f0abee8d",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+       "profile": {
+        "name": "Billie Eilish"
+       },
+       "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f1784a21b4760d2ecb7b0dcdc8da",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "4Uc8Dsxct0oMqx0P6i60ea",
+       "profile": {
+        "name": "Conan Gray"
+       },
+       "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb4c2b62d4748524454a6f99b0",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f1784c2b62d4748524454a6f99b0",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab676161000051744c2b62d4748524454a6f99b0",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "1HY2Jd0NmPuamShAr6KMms",
+       "profile": {
+        "name": "Lady Gaga"
+       },
+       "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178aadc18cac8d48124357c38e6",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "7GlBOeep6PqTfFi59PTUUN",
+       "profile": {
+        "name": "Chappell Roan"
+       },
+       "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178d258ecb0d66244e6300bcf64",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174d258ecb0d66244e6300bcf64",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "6S2OmqARrzebs0tKUEyXyp",
+       "profile": {
+        "name": "Demi Lovato"
+       },
+       "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb42d7061876b87861d7c8f3fb",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17842d7061876b87861d7c8f3fb",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517442d7061876b87861d7c8f3fb",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "3WGpXCj9YhhfX11TToZcXP",
+       "profile": {
+        "name": "Troye Sivan"
+       },
+       "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb867f3b6ab5f4253a6e947490",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f178867f3b6ab5f4253a6e947490",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab67616100005174867f3b6ab5f4253a6e947490",
+           "width": 320
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "26VFTg2z8YR0cCuwLzESi2",
+       "profile": {
+        "name": "Halsey"
+       },
+       "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2",
+       "visuals": {
+        "avatarImage": {
+         "sources": [
+          {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab6761610000e5eb15136101a0f63f0b2800b9dc",
+           "width": 640
+          },
+          {
+           "height": 160,
+           "url": "https://i.scdn.co/image/ab6761610000f17815136101a0f63f0b2800b9dc",
+           "width": 160
+          },
+          {
+           "height": 320,
+           "url": "https://i.scdn.co/image/ab6761610000517415136101a0f63f0b2800b9dc",
+           "width": 320
+          }
+         ]
+        }
+       }
+      }
+     ],
+     "totalCount": 40
+    }
+   },
+   "relatedMusicVideos": {
+    "__typename": "MusicVideosPage",
+    "items": [
+     {
+      "_uri": "spotify:track:4gGpcXak5vzqZsZApDPrLW",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b7b0128faf88bb29792f97a9a3",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b7b0128faf88bb29792f97a9a3",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b7b0128faf88bb29792f97a9a3",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:0IYE9tOgwiqkoQGkNIHshf"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         },
+         {
+          "profile": {
+           "name": "Ed Sheeran"
+          },
+          "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+         },
+         {
+          "profile": {
+           "name": "Future"
+          },
+          "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:2x0WlnmfG39ZuDmstl9xfX"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "End Game",
+       "uri": "spotify:track:4gGpcXak5vzqZsZApDPrLW"
+      }
+     },
+     {
+      "_uri": "spotify:track:54Qm2txAQn42IhrcknweE7",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b73b7c4f5a4bac96bfbdef6baf",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b73b7c4f5a4bac96bfbdef6baf",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b73b7c4f5a4bac96bfbdef6baf",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:4Ago3HvoLca81owAFsHVgi"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:6ZwVl8oPsraGB177TNEzaX"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "I Knew It, I Knew You - Piano Version / From \"Toy Story 5\"",
+       "uri": "spotify:track:54Qm2txAQn42IhrcknweE7"
+      }
+     },
+     {
+      "_uri": "spotify:track:4yhY0U6qyEeg2VVPUkSLS0",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b7e4e7798ccd5b35a07d2502ff",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b7e4e7798ccd5b35a07d2502ff",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b7e4e7798ccd5b35a07d2502ff",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:5x66PcH66xEG1DndVHcTbr"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "Shake It Off",
+       "uri": "spotify:track:4yhY0U6qyEeg2VVPUkSLS0"
+      }
+     },
+     {
+      "_uri": "spotify:track:4q5KdHhngUMbIauAA29BmW",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b78a2526fab04968c24995feb5",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b78a2526fab04968c24995feb5",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b78a2526fab04968c24995feb5",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:7IuY8KQzDvZU4RimL6kcov"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:3f8FaHeG75RzZHWzEQMKm7"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "Picture To Burn",
+       "uri": "spotify:track:4q5KdHhngUMbIauAA29BmW"
+      }
+     },
+     {
+      "_uri": "spotify:track:7L1elAqWXtUPDW7YfVo65Y",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b7f1cdc1c87be35624c75bb819",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b7f1cdc1c87be35624c75bb819",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b7f1cdc1c87be35624c75bb819",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:3YV5NFaarBWu4Y3KiRBVn3"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "Style",
+       "uri": "spotify:track:7L1elAqWXtUPDW7YfVo65Y"
+      }
+     },
+     {
+      "_uri": "spotify:track:7rLfgtxVOdKMJDD6NB253k",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b759db68ba0cc6056bc57ae105",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b759db68ba0cc6056bc57ae105",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b759db68ba0cc6056bc57ae105",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:1zVoj0z2HrYy9ueh2EU9Kt"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:3qoftcUZaUOncvIYjFSPdE"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "Bejeweled",
+       "uri": "spotify:track:7rLfgtxVOdKMJDD6NB253k"
+      }
+     },
+     {
+      "_uri": "spotify:track:1OSb8oWGK3SurLF6WTKYEI",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b776d081b3c9c9f32a22411632",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b776d081b3c9c9f32a22411632",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b776d081b3c9c9f32a22411632",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:2Loo2V9HcdaMTxGgpeI1Q2"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         },
+         {
+          "profile": {
+           "name": "Chris Stapleton"
+          },
+          "uri": "spotify:artist:4YLtscXsxbVgi031ovDDdh"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:4CkgMiMqZ5JzW9iYXSTMTL"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "EXPLICIT"
+       },
+       "name": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+       "uri": "spotify:track:1OSb8oWGK3SurLF6WTKYEI"
+      }
+     },
+     {
+      "_uri": "spotify:track:0g4Zz45yXwKDfa4WDkChAm",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b76eb1a885b91873b3eb43ff5a",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b76eb1a885b91873b3eb43ff5a",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b76eb1a885b91873b3eb43ff5a",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:5TYOKkuqevKLqkEm7jiP8B"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         },
+         {
+          "profile": {
+           "name": "Brendon Urie"
+          },
+          "uri": "spotify:artist:6eYFryfcEu3QSq59D62wZQ"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+       "uri": "spotify:track:0g4Zz45yXwKDfa4WDkChAm"
+      }
+     },
+     {
+      "_uri": "spotify:track:3KvBCwEuZ2VvkTC0LBARLS",
+      "data": {
+       "__typename": "Track",
+       "albumOfTrack": {
+        "coverArt": {
+         "sources": [
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b78be624918b706a27b60b60b4",
+           "width": 1280
+          },
+          {
+           "height": 360,
+           "url": "https://i.scdn.co/image/ab6742d3000052b78be624918b706a27b60b60b4",
+           "width": 640
+          },
+          {
+           "height": 720,
+           "url": "https://i.scdn.co/image/ab6742d3000053b78be624918b706a27b60b60b4",
+           "width": 1280
+          }
+         ]
+        },
+        "uri": "spotify:album:67d1pBzDM72qSQFLllegjj"
+       },
+       "artists": {
+        "items": [
+         {
+          "profile": {
+           "name": "Taylor Swift"
+          },
+          "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+         }
+        ]
+       },
+       "associationsV3": {
+        "audioAssociations": {
+         "items": [
+          {
+           "trackAudio": {
+            "_uri": "spotify:track:3Uo7WG0vmLQ07WB4BDwy7D"
+           }
+          }
+         ]
+        }
+       },
+       "contentRating": {
+        "label": "NONE"
+       },
+       "name": "willow",
+       "uri": "spotify:track:3KvBCwEuZ2VvkTC0LBARLS"
+      }
+     }
+    ],
+    "totalCount": 116
+   },
+   "saved": false,
+   "sharingInfo": {
+    "shareId": "M5f-N8zSRayvaGDJTfU3Sw",
+    "shareUrl": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=M5f-N8zSRayvaGDJTfU3Sw"
+   },
+   "stats": {
+    "followers": 164225952,
+    "monthlyListeners": 100125350,
+    "topCities": {
+     "items": [
+      {
+       "city": "London",
+       "country": "GB",
+       "numberOfListeners": 1555584,
+       "region": "ENG"
+      },
+      {
+       "city": "Quezon City",
+       "country": "PH",
+       "numberOfListeners": 1462346,
+       "region": "00"
+      },
+      {
+       "city": "São Paulo",
+       "country": "BR",
+       "numberOfListeners": 1124754,
+       "region": "SP"
+      },
+      {
+       "city": "Jakarta",
+       "country": "ID",
+       "numberOfListeners": 1121948,
+       "region": "JK"
+      },
+      {
+       "city": "Sydney",
+       "country": "AU",
+       "numberOfListeners": 1060358,
+       "region": "NSW"
+      }
+     ]
+    },
+    "worldRank": 5
+   },
+   "unmappedMusicVideos": {
+    "__typename": "MusicVideosPage",
+    "items": [],
+    "totalCount": 0
+   },
+   "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02",
+   "visualIdentity": {
+    "wideFullBleedImage": {
+     "__typename": "VisualIdentityImage",
+     "extractedColorSet": {
+      "encoreBaseSetTextColor": {
+       "alpha": 255,
+       "blue": 87,
+       "green": 166,
+       "red": 255
+      },
+      "highContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 62,
+        "red": 132
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 29,
+        "red": 89
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 140,
+        "green": 193,
+        "red": 255
+       }
+      },
+      "higherContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 0,
+        "green": 31,
+        "red": 93
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 39,
+        "green": 67,
+        "red": 133
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 96,
+        "green": 215,
+        "red": 30
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 140,
+        "green": 193,
+        "red": 255
+       }
+      },
+      "minContrast": {
+       "backgroundBase": {
+        "alpha": 255,
+        "blue": 48,
+        "green": 131,
+        "red": 218
+       },
+       "backgroundTintedBase": {
+        "alpha": 255,
+        "blue": 4,
+        "green": 106,
+        "red": 190
+       },
+       "textBase": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textBrightAccent": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       },
+       "textSubdued": {
+        "alpha": 255,
+        "blue": 255,
+        "green": 255,
+        "red": 255
+       }
+      }
+     }
+    }
+   },
+   "visuals": {
+    "avatarImage": {
+     "extractedColors": {
+      "colorRaw": {
+       "hex": "#50A080"
+      }
+     },
+     "sources": [
+      {
+       "height": 640,
+       "url": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
+       "width": 640
+      },
+      {
+       "height": 160,
+       "url": "https://i.scdn.co/image/ab6761610000f178e2e8e7ff002a4afda1c7147e",
+       "width": 160
+      },
+      {
+       "height": 320,
+       "url": "https://i.scdn.co/image/ab67616100005174e2e8e7ff002a4afda1c7147e",
+       "width": 320
+      }
+     ]
+    },
+    "gallery": {
+     "items": [
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761670000ecd42bf054eaed60a69249718908",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761670000ecd464d14cdfef28e4d6f1662b92",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761670000ecd4cfb500c2d2059c6cf61f507c",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761670000ecd409089d68fc0ca6159308501f",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ab6761670000ecd4e2ce92c3e52e64888165b515",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/c58123a1be80feff0618700a1513b935bb533534",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/53352eaa695ba3f9bdcb85f854db74647dbf13d5",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/ff4274a6ba4a992bf6559b8a1c2ed89a88520277",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/0d210fdaebb1898d91d7fe4ee3d94e96474695aa",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/41b04a780de285bb7ddcb5762034a27f18f7ec14",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/bf8710e22941026e0236ae06342dd0fa124ce5a9",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/9c833978203ca62ea13202e9d729b1a574e16f4b",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/c2d1c283624213760bc32ec8adce1fe144ae5b1a",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/e2789900977e1eadc0d39430c0be8ccc3423eecb",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/5dc490f10f4bad0c71fa9d873b9aca79ade3607a",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/074730a7c319fcb3f4fd6bda7bbc5c7c5cb4e04a",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/b5c6fec7aaea0e70715e86b6aefe1d21330425e7",
+         "width": 640
+        }
+       ]
+      },
+      {
+       "sources": [
+        {
+         "height": 640,
+         "url": "https://i.scdn.co/image/1188cc78e9174abaa112c1bc436a94b3000b9f0d",
+         "width": 640
+        }
+       ]
+      }
+     ]
+    }
+   },
+   "watchFeedEntrypoint": null
+  }
+ }
+}

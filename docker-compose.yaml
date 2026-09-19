@@ -1,0 +1,11 @@
+services:
+  spotify-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Spotify does not rate-limit; set a US proxy only if you
+      # run outside the US and want the audiobook endpoints.
+      # - SPOTIFY_PROXY=http://user:pass@host:port
